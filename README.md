@@ -109,6 +109,7 @@ Lines and stations of the MLIT railway data (N02) matched to Wikipedia and Wikid
 | `rail/stations.geopbf` | 10,234 station records (station × line): station and group codes, operator, line, Wikidata id, Wikipedia titles | same |
 | `rail/station-groups.geopbf` | 9,046 stations grouped by transfer (one article each) | same |
 | `rail/stats.json` | counts of the matching (10,231 of 10,234 records matched, 596 of 596 lines) | — |
+| `rail/*.csv` | the same tables as CSV (stations, lines, station groups, operators, unmatched stations) | same |
 
 国土数値情報（鉄道データ）（国土交通省）を加工して作成。
 

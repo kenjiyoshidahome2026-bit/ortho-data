@@ -1,8 +1,8 @@
 # japan/rail — 日本の鉄道: 国土数値情報（N02）の路線・駅 × Wikipedia の台帳
 
-配布物（このディレクトリ）: `lines.geopbf`（運営者 × 路線 597 本・1.0 MB）・`stations.geopbf`（駅レコード 10,234 点・0.45 MB）・`station-groups.geopbf`（乗換で一体の駅 9,046 点・0.36 MB）・`stats.json`（件数）。
+配布物（このディレクトリ）: `lines.geopbf`（運営者 × 路線 597 本・1.0 MB）・`stations.geopbf`（駅レコード 10,234 点・0.45 MB）・`station-groups.geopbf`（乗換で一体の駅 9,046 点・0.36 MB）・`stats.json`（件数）、同じ中身の表 `stations.csv`・`lines.csv`・`station-groups.csv`・`operators.csv`・`unmatched.csv`（結べなかった駅）。
 いずれも [GeoPBF](https://github.com/kenjiyoshidahome2026-bit/geopbf)（precision 5 ≈ 1 m・gzip）。読み方: `https://kenjiyoshidahome2026-bit.github.io/ortho-data/japan/rail/lines.geopbf`。
-台帳の組み立て（スクリプト・CSV・Wikidata の生データ）はプロジェクトの共有フォルダ `rail/` にある。
+台帳を組むスクリプトと Wikidata の生データはプロジェクトの共有フォルダ `rail/` にある（`scripts/` の 01 取得 → 02 結び → 03 表 → 04 geopbf）。
 
 ## 件数（`stats.json`）
 
