@@ -1,0 +1,1336 @@
+{
+ "generated_at": "2026-10-08T17:39:35Z",
+ "source": "pbf",
+ "data_timestamp": {
+  "chubu": {
+   "sequenceNumber": "7318104",
+   "timestamp": "2026-10-07T00:56:14Z"
+  },
+  "chugoku": {
+   "sequenceNumber": "7318103",
+   "timestamp": "2026-10-07T00:55:13Z"
+  },
+  "hokkaido": {
+   "sequenceNumber": "7318104",
+   "timestamp": "2026-10-07T00:56:14Z"
+  },
+  "kansai": {
+   "sequenceNumber": "7318104",
+   "timestamp": "2026-10-07T00:56:14Z"
+  },
+  "kanto": {
+   "sequenceNumber": "7318104",
+   "timestamp": "2026-10-07T00:56:14Z"
+  },
+  "kyushu": {
+   "sequenceNumber": "7318104",
+   "timestamp": "2026-10-07T00:56:14Z"
+  },
+  "shikoku": {
+   "sequenceNumber": "7318104",
+   "timestamp": "2026-10-07T00:56:14Z"
+  },
+  "tohoku": {
+   "sequenceNumber": "7318103",
+   "timestamp": "2026-10-07T00:55:13Z"
+  }
+ },
+ "license": "ODbL 1.0 © OpenStreetMap contributors",
+ "raw_total": 165470,
+ "raw_by_amenity": {
+  "fast_food": 24759,
+  "restaurant": 110656,
+  "cafe": 29054,
+  "ice_cream": 1001
+ },
+ "chain_total": 33931,
+ "chain_by_category": {
+  "レストラン": 12695,
+  "ファストフード": 15941,
+  "カフェ": 4911,
+  "アイスクリーム": 384
+ },
+ "non_chain_by_amenity": {
+  "fast_food": 8818,
+  "restaurant": 97961,
+  "cafe": 24143,
+  "ice_cream": 617
+ },
+ "brands": 169,
+ "with_brand_qid": 32412,
+ "brand_source": {
+  "brand:wikidata": 26765,
+  "name": 5980,
+  "brand": 1186
+ },
+ "with_opening_hours": 7488,
+ "open_24h": 1250,
+ "with_address": 5958,
+ "with_phone": 5501,
+ "with_pref": 33931,
+ "with_muni": 33931,
+ "by_brand": [
+  {
+   "brand": "マクドナルド",
+   "qid": "Q38076",
+   "count": 2508,
+   "category": "ファストフード"
+  },
+  {
+   "brand": "すき家",
+   "qid": "Q6137375",
+   "count": 1478,
+   "category": "ファストフード"
+  },
+  {
+   "brand": "スターバックス",
+   "qid": "Q37158",
+   "count": 1456,
+   "category": "カフェ"
+  },
+  {
+   "brand": "ガスト",
+   "qid": "Q87724117",
+   "count": 1061,
+   "category": "レストラン"
+  },
+  {
+   "brand": "ほっともっと",
+   "qid": "Q10850949",
+   "count": 1032,
+   "category": "ファストフード"
+  },
+  {
+   "brand": "モスバーガー",
+   "qid": "Q1204169",
+   "count": 992,
+   "category": "ファストフード"
+  },
+  {
+   "brand": "吉野家",
+   "qid": "Q776272",
+   "count": 984,
+   "category": "ファストフード"
+  },
+  {
+   "brand": "松屋",
+   "qid": "Q848773",
+   "count": 973,
+   "category": "ファストフード"
+  },
+  {
+   "brand": "CoCo壱番屋",
+   "qid": "Q5986105",
+   "count": 847,
+   "category": "レストラン"
+  },
+  {
+   "brand": "サイゼリヤ",
+   "qid": "Q886564",
+   "count": 836,
+   "category": "レストラン"
+  },
+  {
+   "brand": "ドトールコーヒーショップ",
+   "qid": "Q11322732",
+   "count": 834,
+   "category": "カフェ"
+  },
+  {
+   "brand": "ケンタッキーフライドチキン",
+   "qid": "Q524757",
+   "count": 821,
+   "category": "ファストフード"
+  },
+  {
+   "brand": "コメダ珈琲店",
+   "qid": "Q11302679",
+   "count": 737,
+   "category": "カフェ"
+  },
+  {
+   "brand": "ミスタードーナツ",
+   "qid": "Q1065819",
+   "count": 561,
+   "category": "ファストフード"
+  },
+  {
+   "brand": "餃子の王将",
+   "qid": "Q11666805",
+   "count": 560,
+   "category": "レストラン"
+  },
+  {
+   "brand": "丸亀製麺",
+   "qid": "Q10877253",
+   "count": 547,
+   "category": "ファストフード"
+  },
+  {
+   "brand": "タリーズコーヒー",
+   "qid": "Q3541983",
+   "count": 537,
+   "category": "カフェ"
+  },
+  {
+   "brand": "スシロー",
+   "qid": "Q11257037",
+   "count": 511,
+   "category": "ファストフード"
+  },
+  {
+   "brand": "ドミノ・ピザ",
+   "qid": "Q839466",
+   "count": 481,
+   "category": "ファストフード"
+  },
+  {
+   "brand": "はま寿司",
+   "qid": "Q17220385",
+   "count": 460,
+   "category": "ファストフード"
+  },
+  {
+   "brand": "くら寿司",
+   "qid": "Q6445491",
+   "count": 457,
+   "category": "ファストフード"
+  },
+  {
+   "brand": "ココス",
+   "qid": "Q11301951",
+   "count": 437,
+   "category": "レストラン"
+  },
+  {
+   "brand": "ジョイフル",
+   "qid": "Q11310517",
+   "count": 416,
+   "category": "レストラン"
+  },
+  {
+   "brand": "サーティワンアイスクリーム",
+   "qid": "Q584601",
+   "count": 388,
+   "category": "アイスクリーム"
+  },
+  {
+   "brand": "牛角",
+   "qid": "Q11349387",
+   "count": 362,
+   "category": "レストラン"
+  },
+  {
+   "brand": "なか卯",
+   "qid": "Q11274132",
+   "count": 358,
+   "category": "ファストフード"
+  },
+  {
+   "brand": "ほっかほっか亭",
+   "qid": "Q5878035",
+   "count": 355,
+   "category": "ファストフード"
+  },
+  {
+   "brand": "かつや",
+   "qid": "Q2855257",
+   "count": 349,
+   "category": "ファストフード"
+  },
+  {
+   "brand": "デニーズ",
+   "qid": "Q11320661",
+   "count": 318,
+   "category": "レストラン"
+  },
+  {
+   "brand": "バーミヤン",
+   "qid": "Q11328598",
+   "count": 291,
+   "category": "レストラン"
+  },
+  {
+   "brand": "幸楽苑",
+   "qid": "Q11484003",
+   "count": 291,
+   "category": "ファストフード"
+  },
+  {
+   "brand": "日高屋",
+   "qid": "Q11326050",
+   "count": 286,
+   "category": "ファストフード"
+  },
+  {
+   "brand": "ピザハット",
+   "qid": "Q191615",
+   "count": 281,
+   "category": "ファストフード"
+  },
+  {
+   "brand": "リンガーハット",
+   "qid": "Q7334856",
+   "count": 277,
+   "category": "レストラン"
+  },
+  {
+   "brand": "びっくりドンキー",
+   "qid": "Q11276815",
+   "count": 274,
+   "category": "レストラン"
+  },
+  {
+   "brand": "かっぱ寿司",
+   "qid": "Q11263916",
+   "count": 274,
+   "category": "ファストフード"
+  },
+  {
+   "brand": "やよい軒",
+   "qid": "Q11280577",
+   "count": 266,
+   "category": "レストラン"
+  },
+  {
+   "brand": "キッチンオリジン",
+   "qid": "Q11292632",
+   "count": 243,
+   "category": "ファストフード"
+  },
+  {
+   "brand": "サンマルクカフェ",
+   "qid": "Q11305988",
+   "count": 238,
+   "category": "カフェ"
+  },
+  {
+   "brand": "ジョリーパスタ",
+   "qid": "Q10852718",
+   "count": 226,
+   "category": "レストラン"
+  },
+  {
+   "brand": "大阪王将",
+   "qid": "Q48743717",
+   "count": 214,
+   "category": "レストラン"
+  },
+  {
+   "brand": "焼肉きんぐ",
+   "qid": "Q99735922",
+   "count": 206,
+   "category": "レストラン"
+  },
+  {
+   "brand": "ロイヤルホスト",
+   "qid": "Q11120884",
+   "count": 203,
+   "category": "レストラン"
+  },
+  {
+   "brand": "ジョナサン",
+   "qid": "Q11310628",
+   "count": 193,
+   "category": "レストラン"
+  },
+  {
+   "brand": "ピザーラ",
+   "qid": "Q7199948",
+   "count": 192,
+   "category": "ファストフード"
+  },
+  {
+   "brand": "はなまるうどん",
+   "qid": "Q11275674",
+   "count": 185,
+   "category": "レストラン"
+  },
+  {
+   "brand": "大戸屋",
+   "qid": "Q11435522",
+   "count": 184,
+   "category": "レストラン"
+  },
+  {
+   "brand": "しゃぶ葉",
+   "qid": "Q67710247",
+   "count": 183,
+   "category": "レストラン"
+  },
+  {
+   "brand": "バーガーキング",
+   "qid": "Q177054",
+   "count": 182,
+   "category": "ファストフード"
+  },
+  {
+   "brand": "和食さと",
+   "qid": "Q11304897",
+   "count": 179,
+   "category": "レストラン"
+  },
+  {
+   "brand": "天下一品",
+   "qid": "Q11442172",
+   "count": 176,
+   "category": "レストラン"
+  },
+  {
+   "brand": "ラーメンショップ",
+   "qid": "",
+   "count": 170,
+   "category": "レストラン"
+  },
+  {
+   "brand": "夢庵",
+   "qid": "Q11253593",
+   "count": 163,
+   "category": "レストラン"
+  },
+  {
+   "brand": "星乃珈琲店",
+   "qid": "Q88396880",
+   "count": 156,
+   "category": "カフェ"
+  },
+  {
+   "brand": "カフェ・ベローチェ",
+   "qid": "Q11294597",
+   "count": 156,
+   "category": "カフェ"
+  },
+  {
+   "brand": "来来亭",
+   "qid": "Q11523703",
+   "count": 149,
+   "category": "レストラン"
+  },
+  {
+   "brand": "丸源ラーメン",
+   "qid": "Q99735903",
+   "count": 144,
+   "category": "レストラン"
+  },
+  {
+   "brand": "ビッグボーイ",
+   "qid": "Q4386779",
+   "count": 143,
+   "category": "レストラン"
+  },
+  {
+   "brand": "ゆで太郎",
+   "qid": "Q11280824",
+   "count": 140,
+   "category": "ファストフード"
+  },
+  {
+   "brand": "ロッテリア",
+   "qid": "Q249525",
+   "count": 140,
+   "category": "ファストフード"
+  },
+  {
+   "brand": "本家かまどや",
+   "qid": "Q11520140",
+   "count": 140,
+   "category": "ファストフード"
+  },
+  {
+   "brand": "築地銀だこ",
+   "qid": "Q11603490",
+   "count": 127,
+   "category": "ファストフード"
+  },
+  {
+   "brand": "サブウェイ",
+   "qid": "Q244457",
+   "count": 119,
+   "category": "ファストフード"
+  },
+  {
+   "brand": "カフェ・ド・クリエ",
+   "qid": "Q131692144",
+   "count": 115,
+   "category": "カフェ"
+  },
+  {
+   "brand": "珈琲館",
+   "qid": "Q11573290",
+   "count": 115,
+   "category": "カフェ"
+  },
+  {
+   "brand": "松のや",
+   "qid": "Q88183443",
+   "count": 114,
+   "category": "レストラン"
+  },
+  {
+   "brand": "いきなり！ステーキ",
+   "qid": "Q21652405",
+   "count": 112,
+   "category": "レストラン"
+  },
+  {
+   "brand": "安楽亭",
+   "qid": "Q11450866",
+   "count": 112,
+   "category": "レストラン"
+  },
+  {
+   "brand": "プロント",
+   "qid": "Q11336224",
+   "count": 110,
+   "category": "カフェ"
+  },
+  {
+   "brand": "ラーメン山岡家",
+   "qid": "Q115113303",
+   "count": 109,
+   "category": "レストラン"
+  },
+  {
+   "brand": "山田うどん",
+   "qid": "",
+   "count": 108,
+   "category": "レストラン"
+  },
+  {
+   "brand": "フレッシュネスバーガー",
+   "qid": "Q5503087",
+   "count": 107,
+   "category": "ファストフード"
+  },
+  {
+   "brand": "魚べい",
+   "qid": "Q115008809",
+   "count": 107,
+   "category": "ファストフード"
+  },
+  {
+   "brand": "天丼てんや",
+   "qid": "Q124282698",
+   "count": 104,
+   "category": "ファストフード"
+  },
+  {
+   "brand": "やきとり大吉",
+   "qid": "",
+   "count": 103,
+   "category": "レストラン"
+  },
+  {
+   "brand": "エクセルシオールカフェ",
+   "qid": "Q11289828",
+   "count": 101,
+   "category": "カフェ"
+  },
+  {
+   "brand": "富士そば",
+   "qid": "Q11414722",
+   "count": 96,
+   "category": "ファストフード"
+  },
+  {
+   "brand": "しゃぶしゃぶ温野菜",
+   "qid": "Q117475549",
+   "count": 90,
+   "category": "レストラン"
+  },
+  {
+   "brand": "木曽路",
+   "qid": "Q11518589",
+   "count": 88,
+   "category": "レストラン"
+  },
+  {
+   "brand": "ブロンコビリー",
+   "qid": "Q11335154",
+   "count": 88,
+   "category": "レストラン"
+  },
+  {
+   "brand": "道とん堀",
+   "qid": "Q11640595",
+   "count": 87,
+   "category": "ファストフード"
+  },
+  {
+   "brand": "くるまやラーメン",
+   "qid": "Q11265679",
+   "count": 85,
+   "category": "レストラン"
+  },
+  {
+   "brand": "ステーキ宮",
+   "qid": "Q71619992",
+   "count": 83,
+   "category": "レストラン"
+  },
+  {
+   "brand": "洋麺屋五右衛門",
+   "qid": "",
+   "count": 81,
+   "category": "レストラン"
+  },
+  {
+   "brand": "まいどおおきに食堂",
+   "qid": "Q11333101",
+   "count": 81,
+   "category": "レストラン"
+  },
+  {
+   "brand": "とんでん",
+   "qid": "Q11273585",
+   "count": 80,
+   "category": "レストラン"
+  },
+  {
+   "brand": "からやま",
+   "qid": "Q96145071",
+   "count": 75,
+   "category": "レストラン"
+  },
+  {
+   "brand": "銚子丸",
+   "qid": "Q11650214",
+   "count": 73,
+   "category": "ファストフード"
+  },
+  {
+   "brand": "一風堂",
+   "qid": "Q6065417",
+   "count": 72,
+   "category": "レストラン"
+  },
+  {
+   "brand": "上島珈琲店",
+   "qid": "Q96152143",
+   "count": 71,
+   "category": "カフェ"
+  },
+  {
+   "brand": "ルノアール",
+   "qid": "Q11649991",
+   "count": 71,
+   "category": "カフェ"
+  },
+  {
+   "brand": "ちよだ鮨",
+   "qid": "Q11272065",
+   "count": 68,
+   "category": "ファストフード"
+  },
+  {
+   "brand": "ステーキガスト",
+   "qid": "Q92599119",
+   "count": 67,
+   "category": "レストラン"
+  },
+  {
+   "brand": "町田商店",
+   "qid": "Q88318612",
+   "count": 67,
+   "category": "レストラン"
+  },
+  {
+   "brand": "銀のさら",
+   "qid": "",
+   "count": 65,
+   "category": "レストラン"
+  },
+  {
+   "brand": "かごの屋",
+   "qid": "",
+   "count": 65,
+   "category": "レストラン"
+  },
+  {
+   "brand": "サガミ",
+   "qid": "Q11304417",
+   "count": 64,
+   "category": "レストラン"
+  },
+  {
+   "brand": "8番らーめん",
+   "qid": "",
+   "count": 64,
+   "category": "レストラン"
+  },
+  {
+   "brand": "一蘭",
+   "qid": "Q11266830",
+   "count": 63,
+   "category": "レストラン"
+  },
+  {
+   "brand": "まるまつ",
+   "qid": "",
+   "count": 60,
+   "category": "レストラン"
+  },
+  {
+   "brand": "あみやき亭",
+   "qid": "",
+   "count": 60,
+   "category": "レストラン"
+  },
+  {
+   "brand": "小僧寿し",
+   "qid": "Q11459064",
+   "count": 58,
+   "category": "ファストフード"
+  },
+  {
+   "brand": "がってん寿司",
+   "qid": "",
+   "count": 58,
+   "category": "レストラン"
+  },
+  {
+   "brand": "ペッパーランチ",
+   "qid": "Q1016072",
+   "count": 57,
+   "category": "ファストフード"
+  },
+  {
+   "brand": "資さんうどん",
+   "qid": "",
+   "count": 56,
+   "category": "レストラン"
+  },
+  {
+   "brand": "すたみな太郎",
+   "qid": "Q11269733",
+   "count": 55,
+   "category": "レストラン"
+  },
+  {
+   "brand": "ゼッテリア",
+   "qid": "Q136796344",
+   "count": 54,
+   "category": "ファストフード"
+  },
+  {
+   "brand": "らあめん花月嵐",
+   "qid": "Q135989251",
+   "count": 54,
+   "category": "レストラン"
+  },
+  {
+   "brand": "ラーメン魁力屋",
+   "qid": "Q11347773",
+   "count": 54,
+   "category": "レストラン"
+  },
+  {
+   "brand": "ゆず庵",
+   "qid": "",
+   "count": 53,
+   "category": "レストラン"
+  },
+  {
+   "brand": "ウェンディーズ・ファーストキッチン",
+   "qid": "Q5453133",
+   "count": 53,
+   "category": "ファストフード"
+  },
+  {
+   "brand": "焼肉ライク",
+   "qid": "Q110927515",
+   "count": 51,
+   "category": "レストラン"
+  },
+  {
+   "brand": "鎌倉パスタ",
+   "qid": "",
+   "count": 51,
+   "category": "レストラン"
+  },
+  {
+   "brand": "ワンカルビ",
+   "qid": "",
+   "count": 51,
+   "category": "レストラン"
+  },
+  {
+   "brand": "や台ずし",
+   "qid": "",
+   "count": 49,
+   "category": "レストラン"
+  },
+  {
+   "brand": "フライングガーデン",
+   "qid": "",
+   "count": 48,
+   "category": "レストラン"
+  },
+  {
+   "brand": "ぎょうざの満洲",
+   "qid": "Q11265292",
+   "count": 48,
+   "category": "レストラン"
+  },
+  {
+   "brand": "ステーキのどん",
+   "qid": "Q92770815",
+   "count": 48,
+   "category": "レストラン"
+  },
+  {
+   "brand": "から好し",
+   "qid": "Q115008407",
+   "count": 45,
+   "category": "レストラン"
+  },
+  {
+   "brand": "牛繁",
+   "qid": "",
+   "count": 45,
+   "category": "レストラン"
+  },
+  {
+   "brand": "ラーメン二郎",
+   "qid": "Q11347765",
+   "count": 44,
+   "category": "ファストフード"
+  },
+  {
+   "brand": "ゴーゴーカレー",
+   "qid": "Q11303801",
+   "count": 44,
+   "category": "ファストフード"
+  },
+  {
+   "brand": "貢茶",
+   "qid": "Q5581670",
+   "count": 44,
+   "category": "カフェ"
+  },
+  {
+   "brand": "赤から",
+   "qid": "",
+   "count": 43,
+   "category": "レストラン"
+  },
+  {
+   "brand": "味の民芸",
+   "qid": "",
+   "count": 43,
+   "category": "レストラン"
+  },
+  {
+   "brand": "小諸そば",
+   "qid": "",
+   "count": 43,
+   "category": "ファストフード"
+  },
+  {
+   "brand": "スガキヤ",
+   "qid": "",
+   "count": 43,
+   "category": "レストラン"
+  },
+  {
+   "brand": "むさしの森珈琲",
+   "qid": "Q116758676",
+   "count": 42,
+   "category": "カフェ"
+  },
+  {
+   "brand": "にぎり長次郎",
+   "qid": "",
+   "count": 42,
+   "category": "レストラン"
+  },
+  {
+   "brand": "あさくま",
+   "qid": "Q11257174",
+   "count": 40,
+   "category": "レストラン"
+  },
+  {
+   "brand": "街かど屋",
+   "qid": "",
+   "count": 40,
+   "category": "レストラン"
+  },
+  {
+   "brand": "カプリチョーザ",
+   "qid": "Q11294660",
+   "count": 39,
+   "category": "レストラン"
+  },
+  {
+   "brand": "串カツ田中",
+   "qid": "",
+   "count": 39,
+   "category": "レストラン"
+  },
+  {
+   "brand": "じゃんぼ総本店",
+   "qid": "",
+   "count": 39,
+   "category": "ファストフード"
+  },
+  {
+   "brand": "華屋与兵衛",
+   "qid": "Q11620063",
+   "count": 37,
+   "category": "レストラン"
+  },
+  {
+   "brand": "不二家",
+   "qid": "Q858452",
+   "count": 36,
+   "category": "レストラン"
+  },
+  {
+   "brand": "オリーブの丘",
+   "qid": "Q113654309",
+   "count": 34,
+   "category": "レストラン"
+  },
+  {
+   "brand": "和幸",
+   "qid": "Q11417251",
+   "count": 32,
+   "category": "レストラン"
+  },
+  {
+   "brand": "さわやか",
+   "qid": "Q11567129",
+   "count": 32,
+   "category": "レストラン"
+  },
+  {
+   "brand": "トマト＆オニオン",
+   "qid": "Q11321395",
+   "count": 31,
+   "category": "レストラン"
+  },
+  {
+   "brand": "ベックスコーヒーショップ",
+   "qid": "Q11191008",
+   "count": 31,
+   "category": "カフェ"
+  },
+  {
+   "brand": "れんげ食堂Toshu",
+   "qid": "Q92662226",
+   "count": 29,
+   "category": "レストラン"
+  },
+  {
+   "brand": "CoCo都可",
+   "qid": "Q65084369",
+   "count": 27,
+   "category": "カフェ"
+  },
+  {
+   "brand": "さぼてん",
+   "qid": "Q93277389",
+   "count": 26,
+   "category": "レストラン"
+  },
+  {
+   "brand": "箱根そば",
+   "qid": "Q11603345",
+   "count": 25,
+   "category": "ファストフード"
+  },
+  {
+   "brand": "シアトルズベストコーヒー",
+   "qid": "Q766329",
+   "count": 22,
+   "category": "カフェ"
+  },
+  {
+   "brand": "ブルーボトルコーヒー",
+   "qid": "Q4928917",
+   "count": 20,
+   "category": "カフェ"
+  },
+  {
+   "brand": "どんどん亭",
+   "qid": "Q96101856",
+   "count": 19,
+   "category": "レストラン"
+  },
+  {
+   "brand": "レッドロブスター",
+   "qid": "Q846301",
+   "count": 18,
+   "category": "レストラン"
+  },
+  {
+   "brand": "元気寿司",
+   "qid": "Q5533323",
+   "count": 17,
+   "category": "ファストフード"
+  },
+  {
+   "brand": "クリスピー・クリーム・ドーナツ",
+   "qid": "Q1192805",
+   "count": 16,
+   "category": "ファストフード"
+  },
+  {
+   "brand": "シェイクシャック",
+   "qid": "Q1058722",
+   "count": 16,
+   "category": "ファストフード"
+  },
+  {
+   "brand": "セガフレード",
+   "qid": "Q21282762",
+   "count": 15,
+   "category": "カフェ"
+  },
+  {
+   "brand": "ピザ・カリフォルニア",
+   "qid": "Q75324",
+   "count": 15,
+   "category": "ファストフード"
+  },
+  {
+   "brand": "シャトレーゼ",
+   "qid": "Q11307696",
+   "count": 14,
+   "category": "アイスクリーム"
+  },
+  {
+   "brand": "ミスター・バーク",
+   "qid": "Q11328479",
+   "count": 13,
+   "category": "レストラン"
+  },
+  {
+   "brand": "寿司 海都",
+   "qid": "Q11341129",
+   "count": 13,
+   "category": "レストラン"
+  },
+  {
+   "brand": "AFURI",
+   "qid": "Q109237427",
+   "count": 11,
+   "category": "レストラン"
+  },
+  {
+   "brand": "タコベル",
+   "qid": "Q752941",
+   "count": 10,
+   "category": "ファストフード"
+  },
+  {
+   "brand": "ウェンディーズ",
+   "qid": "Q550258",
+   "count": 9,
+   "category": "ファストフード"
+  },
+  {
+   "brand": "ストリーマーコーヒーカンパニー",
+   "qid": "Q110397553",
+   "count": 9,
+   "category": "カフェ"
+  },
+  {
+   "brand": "ヴィ・ド・フランス",
+   "qid": "Q7928249",
+   "count": 8,
+   "category": "カフェ"
+  },
+  {
+   "brand": "ポパイズ",
+   "qid": "Q1330910",
+   "count": 7,
+   "category": "ファストフード"
+  },
+  {
+   "brand": "Nobu",
+   "qid": "Q104840749",
+   "count": 7,
+   "category": "レストラン"
+  },
+  {
+   "brand": "ハードロックカフェ",
+   "qid": "Q918151",
+   "count": 7,
+   "category": "レストラン"
+  },
+  {
+   "brand": "京樽",
+   "qid": "Q11374503",
+   "count": 7,
+   "category": "ファストフード"
+  },
+  {
+   "brand": "TGIフライデーズ",
+   "qid": "Q1524184",
+   "count": 6,
+   "category": "レストラン"
+  },
+  {
+   "brand": "讃岐うどん むらさき",
+   "qid": "Q119380910",
+   "count": 6,
+   "category": "レストラン"
+  },
+  {
+   "brand": "鼎泰豐",
+   "qid": "Q699142",
+   "count": 5,
+   "category": "レストラン"
+  }
+ ],
+ "by_pref": [
+  {
+   "code": "01",
+   "pref": "北海道",
+   "count": 851
+  },
+  {
+   "code": "02",
+   "pref": "青森県",
+   "count": 313
+  },
+  {
+   "code": "03",
+   "pref": "岩手県",
+   "count": 182
+  },
+  {
+   "code": "04",
+   "pref": "宮城県",
+   "count": 785
+  },
+  {
+   "code": "05",
+   "pref": "秋田県",
+   "count": 247
+  },
+  {
+   "code": "06",
+   "pref": "山形県",
+   "count": 258
+  },
+  {
+   "code": "07",
+   "pref": "福島県",
+   "count": 317
+  },
+  {
+   "code": "08",
+   "pref": "茨城県",
+   "count": 584
+  },
+  {
+   "code": "09",
+   "pref": "栃木県",
+   "count": 485
+  },
+  {
+   "code": "10",
+   "pref": "群馬県",
+   "count": 458
+  },
+  {
+   "code": "11",
+   "pref": "埼玉県",
+   "count": 2356
+  },
+  {
+   "code": "12",
+   "pref": "千葉県",
+   "count": 1883
+  },
+  {
+   "code": "13",
+   "pref": "東京都",
+   "count": 6517
+  },
+  {
+   "code": "14",
+   "pref": "神奈川県",
+   "count": 3048
+  },
+  {
+   "code": "15",
+   "pref": "新潟県",
+   "count": 260
+  },
+  {
+   "code": "16",
+   "pref": "富山県",
+   "count": 153
+  },
+  {
+   "code": "17",
+   "pref": "石川県",
+   "count": 215
+  },
+  {
+   "code": "18",
+   "pref": "福井県",
+   "count": 187
+  },
+  {
+   "code": "19",
+   "pref": "山梨県",
+   "count": 308
+  },
+  {
+   "code": "20",
+   "pref": "長野県",
+   "count": 406
+  },
+  {
+   "code": "21",
+   "pref": "岐阜県",
+   "count": 302
+  },
+  {
+   "code": "22",
+   "pref": "静岡県",
+   "count": 870
+  },
+  {
+   "code": "23",
+   "pref": "愛知県",
+   "count": 1889
+  },
+  {
+   "code": "24",
+   "pref": "三重県",
+   "count": 381
+  },
+  {
+   "code": "25",
+   "pref": "滋賀県",
+   "count": 375
+  },
+  {
+   "code": "26",
+   "pref": "京都府",
+   "count": 774
+  },
+  {
+   "code": "27",
+   "pref": "大阪府",
+   "count": 3143
+  },
+  {
+   "code": "28",
+   "pref": "兵庫県",
+   "count": 1340
+  },
+  {
+   "code": "29",
+   "pref": "奈良県",
+   "count": 327
+  },
+  {
+   "code": "30",
+   "pref": "和歌山県",
+   "count": 272
+  },
+  {
+   "code": "31",
+   "pref": "鳥取県",
+   "count": 113
+  },
+  {
+   "code": "32",
+   "pref": "島根県",
+   "count": 78
+  },
+  {
+   "code": "33",
+   "pref": "岡山県",
+   "count": 581
+  },
+  {
+   "code": "34",
+   "pref": "広島県",
+   "count": 423
+  },
+  {
+   "code": "35",
+   "pref": "山口県",
+   "count": 207
+  },
+  {
+   "code": "36",
+   "pref": "徳島県",
+   "count": 103
+  },
+  {
+   "code": "37",
+   "pref": "香川県",
+   "count": 231
+  },
+  {
+   "code": "38",
+   "pref": "愛媛県",
+   "count": 227
+  },
+  {
+   "code": "39",
+   "pref": "高知県",
+   "count": 72
+  },
+  {
+   "code": "40",
+   "pref": "福岡県",
+   "count": 931
+  },
+  {
+   "code": "41",
+   "pref": "佐賀県",
+   "count": 90
+  },
+  {
+   "code": "42",
+   "pref": "長崎県",
+   "count": 146
+  },
+  {
+   "code": "43",
+   "pref": "熊本県",
+   "count": 162
+  },
+  {
+   "code": "44",
+   "pref": "大分県",
+   "count": 138
+  },
+  {
+   "code": "45",
+   "pref": "宮崎県",
+   "count": 154
+  },
+  {
+   "code": "46",
+   "pref": "鹿児島県",
+   "count": 336
+  },
+  {
+   "code": "47",
+   "pref": "沖縄県",
+   "count": 453
+  },
+  {
+   "code": "",
+   "pref": "（不明）",
+   "count": 0
+  }
+ ],
+ "last_diff": {
+  "run_id": 2,
+  "added": 0,
+  "changed": 0,
+  "removed": 0
+ }
+}

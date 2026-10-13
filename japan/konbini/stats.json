@@ -1,0 +1,612 @@
+{
+ "generated_at": "2026-10-08T15:31:20Z",
+ "source": "pbf",
+ "data_timestamp": {
+  "chubu": {
+   "sequenceNumber": "7318104",
+   "timestamp": "2026-10-07T00:56:14Z"
+  },
+  "chugoku": {
+   "sequenceNumber": "7318103",
+   "timestamp": "2026-10-07T00:55:13Z"
+  },
+  "hokkaido": {
+   "sequenceNumber": "7318104",
+   "timestamp": "2026-10-07T00:56:14Z"
+  },
+  "kansai": {
+   "sequenceNumber": "7318104",
+   "timestamp": "2026-10-07T00:56:14Z"
+  },
+  "kanto": {
+   "sequenceNumber": "7318104",
+   "timestamp": "2026-10-07T00:56:14Z"
+  },
+  "kyushu": {
+   "sequenceNumber": "7318104",
+   "timestamp": "2026-10-07T00:56:14Z"
+  },
+  "shikoku": {
+   "sequenceNumber": "7318104",
+   "timestamp": "2026-10-07T00:56:14Z"
+  },
+  "tohoku": {
+   "sequenceNumber": "7318103",
+   "timestamp": "2026-10-07T00:55:13Z"
+  }
+ },
+ "license": "ODbL 1.0 © OpenStreetMap contributors",
+ "total": 48940,
+ "by_osm_type": {
+  "node": 33437,
+  "way": 15479,
+  "relation": 24
+ },
+ "with_brand_qid": 46899,
+ "brand_source": {
+  "none": 2020,
+  "brand:wikidata": 38724,
+  "brand": 2367,
+  "name": 5783,
+  "brand(未知)": 21,
+  "operator": 25
+ },
+ "with_name": 47865,
+ "with_opening_hours": 15287,
+ "open_24h": 13880,
+ "with_address": 9608,
+ "with_postcode": 6686,
+ "with_phone": 9398,
+ "with_pref": 48940,
+ "with_muni": 48940,
+ "by_brand": [
+  {
+   "qid": "Q259340",
+   "brand": "セブン-イレブン",
+   "count": 17635
+  },
+  {
+   "qid": "Q1191685",
+   "brand": "ファミリーマート",
+   "count": 12888
+  },
+  {
+   "qid": "Q1557223",
+   "brand": "ローソン",
+   "count": 10798
+  },
+  {
+   "qid": "",
+   "brand": "（ブランド不明）",
+   "count": 2020
+  },
+  {
+   "qid": "Q1038929",
+   "brand": "ミニストップ",
+   "count": 1592
+  },
+  {
+   "qid": "Q11314123",
+   "brand": "セイコーマート",
+   "count": 936
+  },
+  {
+   "qid": "Q5209392",
+   "brand": "デイリーヤマザキ",
+   "count": 877
+  },
+  {
+   "qid": "Q11350960",
+   "brand": "ローソンストア100",
+   "count": 523
+  },
+  {
+   "qid": "Q11345131",
+   "brand": "ヤマザキショップ",
+   "count": 393
+  },
+  {
+   "qid": "Q11234763",
+   "brand": "NewDays",
+   "count": 266
+  },
+  {
+   "qid": "Q3268010",
+   "brand": "サークルK",
+   "count": 210
+  },
+  {
+   "qid": "Q24866804",
+   "brand": "ローソン・スリーエフ",
+   "count": 180
+  },
+  {
+   "qid": "Q7229380",
+   "brand": "ポプラ",
+   "count": 112
+  },
+  {
+   "qid": "Q11305522",
+   "brand": "サンクス",
+   "count": 79
+  },
+  {
+   "qid": "Q11323850",
+   "brand": "ナチュラルローソン",
+   "count": 75
+  },
+  {
+   "qid": "Q11314868",
+   "brand": "セーブオン",
+   "count": 60
+  },
+  {
+   "qid": "Q117836398",
+   "brand": "スリーエフ",
+   "count": 58
+  },
+  {
+   "qid": "Q16141064",
+   "brand": "サークルKサンクス",
+   "count": 31
+  },
+  {
+   "qid": "Q116957010",
+   "brand": "ローソン・ポプラ",
+   "count": 28
+  },
+  {
+   "qid": "Q11188499",
+   "brand": "リコス",
+   "count": 18
+  },
+  {
+   "qid": "Q11276173",
+   "brand": "ココストア",
+   "count": 15
+  },
+  {
+   "qid": "Q11337161",
+   "brand": "ベルマート",
+   "count": 14
+  },
+  {
+   "qid": "Q17192555",
+   "brand": "アンスリー",
+   "count": 14
+  },
+  {
+   "qid": "Q11342034",
+   "brand": "ミスターマックス",
+   "count": 11
+  },
+  {
+   "qid": "Q11326356",
+   "brand": "ハセガワストア",
+   "count": 10
+  },
+  {
+   "qid": "Q130741275",
+   "brand": "生活彩家",
+   "count": 10
+  },
+  {
+   "qid": "Q693369",
+   "brand": "キヨスク",
+   "count": 8
+  },
+  {
+   "qid": "Q115868189",
+   "brand": "ファミマ!!",
+   "count": 8
+  },
+  {
+   "qid": "Q11302585",
+   "brand": "コミュニティ・ストア",
+   "count": 8
+  },
+  {
+   "qid": "Q115868119",
+   "brand": "ローソン+toks",
+   "count": 8
+  },
+  {
+   "qid": "Q11290687",
+   "brand": "エブリワン",
+   "count": 7
+  },
+  {
+   "qid": "",
+   "brand": "ORANGE HEART",
+   "count": 6
+  },
+  {
+   "qid": "Q60997353",
+   "brand": "3COINS",
+   "count": 5
+  },
+  {
+   "qid": "Q11278154",
+   "brand": "まいばすけっと",
+   "count": 4
+  },
+  {
+   "qid": "Q610492",
+   "brand": "スパー",
+   "count": 3
+  },
+  {
+   "qid": "Q306960",
+   "brand": "am/pm",
+   "count": 3
+  },
+  {
+   "qid": "",
+   "brand": "Heart・in",
+   "count": 2
+  },
+  {
+   "qid": "",
+   "brand": "アズナス",
+   "count": 2
+  },
+  {
+   "qid": "Q11442062",
+   "brand": "大黒天物産",
+   "count": 2
+  },
+  {
+   "qid": "",
+   "brand": "カスミ",
+   "count": 1
+  },
+  {
+   "qid": "Q244457",
+   "brand": "サブウェイ",
+   "count": 1
+  },
+  {
+   "qid": "",
+   "brand": "東京ソラマチ店",
+   "count": 1
+  },
+  {
+   "qid": "",
+   "brand": "リコス",
+   "count": 1
+  },
+  {
+   "qid": "Q38076",
+   "brand": "マクドナルド",
+   "count": 1
+  },
+  {
+   "qid": "",
+   "brand": "miniピアゴ",
+   "count": 1
+  },
+  {
+   "qid": "",
+   "brand": "Exchange",
+   "count": 1
+  },
+  {
+   "qid": "",
+   "brand": "杉田屋商店",
+   "count": 1
+  },
+  {
+   "qid": "",
+   "brand": "JPローソン",
+   "count": 1
+  },
+  {
+   "qid": "",
+   "brand": "ほっともっと",
+   "count": 1
+  },
+  {
+   "qid": "",
+   "brand": "PLUSTA",
+   "count": 1
+  },
+  {
+   "qid": "Q839466",
+   "brand": "ドミノズ・ピザ",
+   "count": 1
+  },
+  {
+   "qid": "Q154950",
+   "brand": "シェル",
+   "count": 1
+  },
+  {
+   "qid": "Q11520140",
+   "brand": "本家かまどや",
+   "count": 1
+  },
+  {
+   "qid": "",
+   "brand": "asnas",
+   "count": 1
+  },
+  {
+   "qid": "Q11351369",
+   "brand": "ワタキューセイモア",
+   "count": 1
+  },
+  {
+   "qid": "Q1640290",
+   "brand": "ENEOS",
+   "count": 1
+  },
+  {
+   "qid": "Q650854",
+   "brand": "Lawson",
+   "count": 1
+  },
+  {
+   "qid": "",
+   "brand": "ヒライ",
+   "count": 1
+  },
+  {
+   "qid": "Q1522187",
+   "brand": "ファミリーマート",
+   "count": 1
+  },
+  {
+   "qid": "Q650460",
+   "brand": "ファンボーイズ",
+   "count": 1
+  }
+ ],
+ "by_pref": [
+  {
+   "code": "01",
+   "pref": "北海道",
+   "count": 2443
+  },
+  {
+   "code": "02",
+   "pref": "青森県",
+   "count": 573
+  },
+  {
+   "code": "03",
+   "pref": "岩手県",
+   "count": 449
+  },
+  {
+   "code": "04",
+   "pref": "宮城県",
+   "count": 1191
+  },
+  {
+   "code": "05",
+   "pref": "秋田県",
+   "count": 458
+  },
+  {
+   "code": "06",
+   "pref": "山形県",
+   "count": 454
+  },
+  {
+   "code": "07",
+   "pref": "福島県",
+   "count": 665
+  },
+  {
+   "code": "08",
+   "pref": "茨城県",
+   "count": 1175
+  },
+  {
+   "code": "09",
+   "pref": "栃木県",
+   "count": 822
+  },
+  {
+   "code": "10",
+   "pref": "群馬県",
+   "count": 916
+  },
+  {
+   "code": "11",
+   "pref": "埼玉県",
+   "count": 2725
+  },
+  {
+   "code": "12",
+   "pref": "千葉県",
+   "count": 2446
+  },
+  {
+   "code": "13",
+   "pref": "東京都",
+   "count": 6840
+  },
+  {
+   "code": "14",
+   "pref": "神奈川県",
+   "count": 3405
+  },
+  {
+   "code": "15",
+   "pref": "新潟県",
+   "count": 622
+  },
+  {
+   "code": "16",
+   "pref": "富山県",
+   "count": 303
+  },
+  {
+   "code": "17",
+   "pref": "石川県",
+   "count": 371
+  },
+  {
+   "code": "18",
+   "pref": "福井県",
+   "count": 283
+  },
+  {
+   "code": "19",
+   "pref": "山梨県",
+   "count": 502
+  },
+  {
+   "code": "20",
+   "pref": "長野県",
+   "count": 781
+  },
+  {
+   "code": "21",
+   "pref": "岐阜県",
+   "count": 508
+  },
+  {
+   "code": "22",
+   "pref": "静岡県",
+   "count": 1502
+  },
+  {
+   "code": "23",
+   "pref": "愛知県",
+   "count": 2668
+  },
+  {
+   "code": "24",
+   "pref": "三重県",
+   "count": 637
+  },
+  {
+   "code": "25",
+   "pref": "滋賀県",
+   "count": 458
+  },
+  {
+   "code": "26",
+   "pref": "京都府",
+   "count": 1026
+  },
+  {
+   "code": "27",
+   "pref": "大阪府",
+   "count": 3682
+  },
+  {
+   "code": "28",
+   "pref": "兵庫県",
+   "count": 1722
+  },
+  {
+   "code": "29",
+   "pref": "奈良県",
+   "count": 381
+  },
+  {
+   "code": "30",
+   "pref": "和歌山県",
+   "count": 411
+  },
+  {
+   "code": "31",
+   "pref": "鳥取県",
+   "count": 234
+  },
+  {
+   "code": "32",
+   "pref": "島根県",
+   "count": 209
+  },
+  {
+   "code": "33",
+   "pref": "岡山県",
+   "count": 714
+  },
+  {
+   "code": "34",
+   "pref": "広島県",
+   "count": 839
+  },
+  {
+   "code": "35",
+   "pref": "山口県",
+   "count": 393
+  },
+  {
+   "code": "36",
+   "pref": "徳島県",
+   "count": 257
+  },
+  {
+   "code": "37",
+   "pref": "香川県",
+   "count": 378
+  },
+  {
+   "code": "38",
+   "pref": "愛媛県",
+   "count": 465
+  },
+  {
+   "code": "39",
+   "pref": "高知県",
+   "count": 227
+  },
+  {
+   "code": "40",
+   "pref": "福岡県",
+   "count": 1670
+  },
+  {
+   "code": "41",
+   "pref": "佐賀県",
+   "count": 223
+  },
+  {
+   "code": "42",
+   "pref": "長崎県",
+   "count": 300
+  },
+  {
+   "code": "43",
+   "pref": "熊本県",
+   "count": 496
+  },
+  {
+   "code": "44",
+   "pref": "大分県",
+   "count": 313
+  },
+  {
+   "code": "45",
+   "pref": "宮崎県",
+   "count": 380
+  },
+  {
+   "code": "46",
+   "pref": "鹿児島県",
+   "count": 661
+  },
+  {
+   "code": "47",
+   "pref": "沖縄県",
+   "count": 762
+  },
+  {
+   "code": "",
+   "pref": "（不明）",
+   "count": 0
+  }
+ ],
+ "last_diff": {
+  "run_id": 2,
+  "added": 0,
+  "changed": 0,
+  "removed": 0
+ }
+}

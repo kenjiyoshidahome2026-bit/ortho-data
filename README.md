@@ -113,6 +113,18 @@ Lines and stations of the MLIT railway data (N02) matched to Wikipedia and Wikid
 
 国土数値情報（鉄道データ）（国土交通省）を加工して作成。
 
+### Convenience stores and restaurant chains
+
+Shops tagged in OpenStreetMap, with the brand normalised (Wikidata id first, then the brand and name spellings). Details and counts in [`konbini/README.md`](japan/konbini/README.md) and [`fastfood/README.md`](japan/fastfood/README.md) (Japanese).
+
+| File | Contents | Source |
+|---|---|---|
+| `konbini/konbini.geopbf` | 48,940 convenience stores (`shop=convenience`): name, branch, brand and its Wikidata id, opening hours, prefecture and municipality (with the local government code) | © OpenStreetMap contributors (ODbL), extract of 2026-10-07; brand ids from Wikidata (CC0) |
+| `fastfood/fastfood.geopbf` | 33,931 fast-food, café and restaurant chain outlets of 169 brands: the same fields plus category and cuisine | same |
+| `konbini/*.csv` · `fastfood/*.csv` | the same stores as tables with every column, and the brand tables (counts, spellings found) | same |
+| `konbini/stats.json` · `fastfood/stats.json` | counts by brand and prefecture, coverage of each field | — |
+| `konbini/osm-coverage.md` | how complete OpenStreetMap is in Japan for 44 kinds of features, against official counts | — |
+
 ### Landmarks in 3D
 
 Read by [www.ortho-earth.com/japan/models](https://www.ortho-earth.com/japan/models).
@@ -134,5 +146,5 @@ Read by the catalogue of Japanese public GIS data (gishub-jp).
 ### Terms for us/ and japan/
 
 The CC BY-SA 4.0 statement above covers `globe/` only. Files under `us/` and `japan/` are compiled or processed from
-the sources listed, and each keeps the terms of its sources. Note in particular that the river lines in `japan/terrain.geopbf`
-and the estimated coordinates in `japan/onsen.json` are derived from OpenStreetMap and are under the ODbL.
+the sources listed, and each keeps the terms of its sources. Note in particular that the river lines in `japan/terrain.geopbf`,
+the estimated coordinates in `japan/onsen.json`, and everything under `japan/konbini/` and `japan/fastfood/` are derived from OpenStreetMap and are under the ODbL.
