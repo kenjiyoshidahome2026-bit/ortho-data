@@ -1,0 +1,198 @@
+{
+	"_": "名所 3D 模型の台帳（models.html）。出典＝国土交通省 Project PLATEAU の 3D 都市モデル（建築物 LOD3・テクスチャ付き）を 3D Tiles 配信から名所のまわりだけ抜いて 1 枚の glb に束ねた物（scripts/tiles3d）。CESIUM_RTC を持つので置き場所は自動＝lon/lat は飛び先の指定だけ。ライセンス＝CC BY 4.0（国土交通省）。カードのサムネは apps/ortho-japan の画面そのものを CDP で撮った物（bucket GIS/models/thumbs/<id>.jpg）",
+	"base": "https://api.ortho-earth.com/bucket/GIS/models/",
+	"models": [
+		{
+			"id": "skytree",
+			"name": {
+				"en": "Tokyo Skytree",
+				"ja": "東京スカイツリー"
+			},
+			"place": {
+				"en": "Sumida, Tokyo",
+				"ja": "東京都墨田区"
+			},
+			"lon": 139.8107,
+			"lat": 35.71006,
+			"zoom": 16.6,
+			"tilt": 60,
+			"bearing": 0,
+			"author": {
+				"en": "MLIT Japan — Project PLATEAU (buildings, LOD3)",
+				"ja": "国土交通省 Project PLATEAU（建築物 LOD3）"
+			},
+			"license": "CC BY 4.0",
+			"source": "https://www.mlit.go.jp/plateau/",
+			"mb": 3,
+			"thumb": "https://api.ortho-earth.com/bucket/GIS/models/thumbs/skytree.jpg"
+		},
+		{
+			"id": "tokyo-tower",
+			"name": {
+				"en": "Tokyo Tower",
+				"ja": "東京タワー"
+			},
+			"place": {
+				"en": "Minato, Tokyo",
+				"ja": "東京都港区"
+			},
+			"lon": 139.74543,
+			"lat": 35.65858,
+			"zoom": 16.8,
+			"tilt": 60,
+			"bearing": 0,
+			"author": {
+				"en": "MLIT Japan — Project PLATEAU (buildings, LOD3)",
+				"ja": "国土交通省 Project PLATEAU（建築物 LOD3）"
+			},
+			"license": "CC BY 4.0",
+			"source": "https://www.mlit.go.jp/plateau/",
+			"mb": 4,
+			"thumb": "https://api.ortho-earth.com/bucket/GIS/models/thumbs/tokyo-tower.jpg"
+		},
+		{
+			"id": "sensoji",
+			"name": {
+				"en": "Sensō-ji",
+				"ja": "浅草寺"
+			},
+			"place": {
+				"en": "Taito, Tokyo",
+				"ja": "東京都台東区"
+			},
+			"lon": 139.79665,
+			"lat": 35.71476,
+			"zoom": 17.2,
+			"tilt": 60,
+			"bearing": 0,
+			"author": {
+				"en": "MLIT Japan — Project PLATEAU (buildings, LOD3)",
+				"ja": "国土交通省 Project PLATEAU（建築物 LOD3）"
+			},
+			"license": "CC BY 4.0",
+			"source": "https://www.mlit.go.jp/plateau/",
+			"mb": 8,
+			"thumb": "https://api.ortho-earth.com/bucket/GIS/models/thumbs/sensoji.jpg"
+		},
+		{
+			"id": "osaka-castle",
+			"name": {
+				"en": "Osaka Castle",
+				"ja": "大阪城"
+			},
+			"place": {
+				"en": "Osaka",
+				"ja": "大阪市中央区"
+			},
+			"lon": 135.52591,
+			"lat": 34.68745,
+			"zoom": 17,
+			"tilt": 60,
+			"bearing": 0,
+			"author": {
+				"en": "MLIT Japan — Project PLATEAU (buildings, LOD3)",
+				"ja": "国土交通省 Project PLATEAU（建築物 LOD3）"
+			},
+			"license": "CC BY 4.0",
+			"source": "https://www.mlit.go.jp/plateau/",
+			"mb": 1,
+			"thumb": "https://api.ortho-earth.com/bucket/GIS/models/thumbs/osaka-castle.jpg"
+		},
+		{
+			"id": "yasaka-pagoda",
+			"name": {
+				"en": "Yasaka Pagoda (Hōkan-ji)",
+				"ja": "八坂の塔（法観寺）"
+			},
+			"place": {
+				"en": "Kyoto",
+				"ja": "京都市東山区"
+			},
+			"lon": 135.77843,
+			"lat": 34.99852,
+			"zoom": 17.8,
+			"tilt": 60,
+			"bearing": 0,
+			"author": {
+				"en": "MLIT Japan — Project PLATEAU (buildings, LOD3)",
+				"ja": "国土交通省 Project PLATEAU（建築物 LOD3）"
+			},
+			"license": "CC BY 4.0",
+			"source": "https://www.mlit.go.jp/plateau/",
+			"mb": 8,
+			"thumb": "https://api.ortho-earth.com/bucket/GIS/models/thumbs/yasaka-pagoda.jpg"
+		},
+		{
+			"id": "nijo-castle",
+			"name": {
+				"en": "Nijō Castle",
+				"ja": "二条城"
+			},
+			"place": {
+				"en": "Kyoto",
+				"ja": "京都市中京区"
+			},
+			"lon": 135.74815,
+			"lat": 35.01416,
+			"zoom": 16.6,
+			"tilt": 60,
+			"bearing": 0,
+			"author": {
+				"en": "MLIT Japan — Project PLATEAU (buildings, LOD3)",
+				"ja": "国土交通省 Project PLATEAU（建築物 LOD3）"
+			},
+			"license": "CC BY 4.0",
+			"source": "https://www.mlit.go.jp/plateau/",
+			"mb": 1,
+			"thumb": "https://api.ortho-earth.com/bucket/GIS/models/thumbs/nijo-castle.jpg"
+		},
+		{
+			"id": "matsue-castle",
+			"name": {
+				"en": "Matsue Castle",
+				"ja": "松江城"
+			},
+			"place": {
+				"en": "Matsue, Shimane",
+				"ja": "島根県松江市"
+			},
+			"lon": 133.05055,
+			"lat": 35.4751,
+			"zoom": 17,
+			"tilt": 60,
+			"bearing": 0,
+			"author": {
+				"en": "MLIT Japan — Project PLATEAU (buildings, LOD3)",
+				"ja": "国土交通省 Project PLATEAU（建築物 LOD3）"
+			},
+			"license": "CC BY 4.0",
+			"source": "https://www.mlit.go.jp/plateau/",
+			"mb": 12,
+			"thumb": "https://api.ortho-earth.com/bucket/GIS/models/thumbs/matsue-castle.jpg"
+		},
+		{
+			"id": "yokohama-akarenga",
+			"name": {
+				"en": "Yokohama Red Brick Warehouse",
+				"ja": "横浜赤レンガ倉庫"
+			},
+			"place": {
+				"en": "Yokohama",
+				"ja": "横浜市中区"
+			},
+			"lon": 139.64248,
+			"lat": 35.45293,
+			"zoom": 17.2,
+			"tilt": 60,
+			"bearing": 0,
+			"author": {
+				"en": "MLIT Japan — Project PLATEAU (buildings, LOD3)",
+				"ja": "国土交通省 Project PLATEAU（建築物 LOD3）"
+			},
+			"license": "CC BY 4.0",
+			"source": "https://www.mlit.go.jp/plateau/",
+			"mb": 5,
+			"thumb": "https://api.ortho-earth.com/bucket/GIS/models/thumbs/yokohama-akarenga.jpg"
+		}
+	]
+}
