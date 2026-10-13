@@ -1,0 +1,460 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 600">
+  <defs>
+    <path id="reuse-0" fill="#fff" d="M455.7 112.4c-.6-1.6-5.5-1.5-9.4-.2-4 1.2-6.1.8-14.5 1-8.3 0-13 2-13.8 2.2-.7.3-13.4 6.5-18.2 8-4.9 1.6-9.5 0-9.5 0s5.6 5.5 13.5 1.1c0 0-6.6 3.7-10.8 4.2 0 0 6.3 1.3 11.7-1l1.4-.7c3.4-1.7 6.3-3 9-4 15.4-5.7 21.4-2 31.9-4.8"/>
+    <path id="reuse-1" fill="#fff" d="M455.7 112.2c-.7 1.4-4.8.6-7.5 1.4.6.6 2.5 1.6 7.6 2.6.8-3.2 0-4 0-4z"/>
+    <path id="reuse-2" fill="none" d="M414.6 122.7c-5 1.7-7.4 3.2-10 4.2m9.3-5.1c-4.2 1.5-6.7 3-9.3 4m8.7-5c-3.6 1.4-6.1 2.8-8.7 3.8m8.1-4.7-8 3.6m7.4-4.5-7.4 3.4M420.3 120.3s7-2.1 12.3-1.5m-11.5.2s6.5-1.9 12.2-1.4m-11.4 0s6-1.5 12.1-1.2m-11.3 0s5.6-1.3 12-1.2m-11.2-.1s5.2-1 12-1M441.8 113.9s3.2-.8 6.3-1.2c2.7-.4 5.3-.6 6.1.1M441.3 115s3.6-.4 6.5-1.2M440.7 116s4.1 0 6.9-1M440 117.2s4.8.3 7.3-1M439.5 118.2s5.2.6 7.6-.8"/>
+    <path id="reuse-8" fill="#fff" stroke-width=".1" d="m471.5 15.6 6 16.7 1.7-.7-.6-2.5z"/>
+    <path id="reuse-9" fill="none" stroke-width=".3" d="m480 28.9-.4.1.6 1.3.6-.4z"/>
+    <path id="reuse-11" fill="none" stroke-width=".3" d="m471.5 15.6 6 16.7 1.7-.7 10.9 26.6.5-4.2-10.4-23.7.6-.4-.8-1-.4.1s-.9-.2-1 .1z"/>
+    <path id="reuse-12" fill="#00209f" d="M561.1 52.4s-1.4 25.2-9 37.8l-31.3-4.6.9-15.3L561 43.5z"/>
+    <path id="reuse-13" fill="#00209f" stroke="#000" stroke-width=".3" d="M532 13.8c-2 .9-3.6.2-3.6.2s-.9 1 1.4 1.2c0 0 .8 0 .2 1"/>
+    <path id="reuse-14" fill="#d21034" stroke="#000" stroke-width=".3" d="M534.5 12s-3.3-2.8-5.4-2.6c-2.1.1-2.2.1-2.4.5-.2.3-.6 2 .4 3.3 1 1.2 1.3 1 1.5.7.1-.3 1.5-1 4-.5"/>
+    <path id="reuse-15" fill="#00209f" stroke="#000" stroke-width=".159" d="M529.3 9.4h-.2c-2.1.1-2.2.1-2.4.5-.1.2-.4 1.1-.2 2 .3-.3 1-.5 2.3-.5 2.7.2 4.3 1.3 4.3 1.3l.2.1 1.2-.9s-3.1-2.5-5.2-2.5z"/>
+    <path id="reuse-16" fill="#00209f" d="M511 42s3 6.7 2.5 15.5l17.8-16.6 8.5-7.7h-.2l-1-5.2-.6-3-1.4.3v-1.7l-.2-1.5-1.2-2.4-1-2.6-.2-2 .4-2.6-.6.3z"/>
+    <path id="reuse-17" fill="#00209f" stroke="#000" stroke-width=".3" d="M563.7 43.2s1.8 1.8 2 5.7l.2 6.6s-2.8 1.7-5.5 1c0 0 .5-1.1.5-2.8v-10z"/>
+    <path id="reuse-18" fill="#d21034" stroke="#000" stroke-width=".159" d="m562.1 43.7-1.2.1v10c0 1.6-.5 2.7-.5 2.7 1 .3 2 .2 2.8 0 0-.3.4-5 .3-7.6 0-2.6-1.4-5.2-1.4-5.2z"/>
+    <path id="reuse-19" fill="#f1b517" d="M584.6 114.8a3 3 0 0 1 2-1.7s.1-.1-.3-1.1-.2-1.8-.2-1.8c.1-5.3-.4-6.8-.4-6.8.4 0 2 2 2 2 0-5-7.5-7.5-7.5-7.5 2.7 7 1.7 7.9 1.7 7.9 1.7-.8 2-2 2-2 .3 2 0 5.7 0 5.7s0 1.7-1.6.9c-1.6-.9-8.3-4-8.3-4l-.7 1.3 9.2 4.3s1.3.6 1 1.6l-.6 1.2z"/>
+    <path id="reuse-20" fill="none" stroke="#000" stroke-width=".3" d="M583.9 109.5s.3-3.7 0-5.7c0 0-.3 1.2-2 2 0 0 1-.8-1.7-7.9 0 0 7.5 2.4 7.6 7.5 0 0-1.7-2-2.1-2 0 0 .5 1.5.4 6.8"/>
+    <path id="reuse-21" fill="none" stroke="#000" stroke-width=".1" d="M584.6 114.8a3 3 0 0 1 2-1.7s.1-.1-.3-1.1-.2-1.8-.2-1.8c.1-5.3-.4-6.8-.4-6.8.4 0 2 2 2 2 0-5-7.5-7.5-7.5-7.5 2.7 7 1.7 7.9 1.7 7.9 1.7-.8 2-2 2-2 .3 2 0 5.7 0 5.7s0 1.7-1.6.9c-1.6-.9-8.3-4-8.3-4l-.7 1.3 9.2 4.3s1.3.6 1 1.6l-.6 1.2"/>
+    <path id="reuse-22" fill="#f1b517" stroke="#000" stroke-width=".1" d="M570.7 104.5c-.2 0-.6 0-1 .3a1 1 0 0 0-.4.6c0 .3 0 .6.2 1 .4.7 1.1 1 1.7 1h1v-.4h-1c-.5 0-1-.3-1.3-.9l-.1-.6c0-.2 0-.3.2-.4l.7-.2.6.1c.3.2.8.5 1.3 1.3l.4-.2c-.6-.9-1-1.3-1.5-1.5-.4-.2-.7-.1-.8-.1z" color="#000" font-family="sans-serif" font-weight="400" overflow="visible"/>
+    <path id="reuse-23" fill="#f1b517" stroke="#000" stroke-width=".1" d="M571.4 109.3s.2-3.5 2.4-4.8c0 0 .6 0 .6.5 0 .4-2 4.2-2 4.2z"/>
+    <path id="reuse-24" fill="#f1b517" stroke="#000" stroke-width=".1" d="M571.6 108.9s.2-3 2-4c0 0 .5 0 .6.4 0 .4-1.8 3.5-1.8 3.5z"/>
+    <path id="reuse-25" fill="#d21034" d="M581.9 75.4s4 .3 4 2.2c0 2-.7 4 .7 4.4 1.3.3 4 .3 4.8 1 .7.8.7 1.6.7 1.6s-3.5-1.2-5-.3c-1.6.8-3.2-.5-3.4-1-.6-1-.3-3-1.3-3.4-1-.4-4.5-.4-4.5-.4z"/>
+    <path id="reuse-26" fill="none" stroke="#000" stroke-width=".3" d="M552.6 48c.7-10.9-1.2-23.6-1.2-23.6l-.2-2"/>
+    <path id="reuse-27" stroke-width=".3" d="M544-1.2 539.4 9s-1.2-1.3-2.2 0l-1 1.4m7.6-11.6L535.5 6s1.6.8.6 2.2l-1 1.4 1.1.8"/>
+    <path id="reuse-28" stroke-width=".3" d="m532.9 7.3 6 4.4-1.6 2.1-6-4.3z"/>
+    <path id="reuse-29" stroke-width=".1" d="m533 8 5.2 3.8-1 1.4-5.2-3.8z"/>
+    <path id="reuse-30" stroke-width=".3" d="m563.3 11.4-6 9.4s-1-1.5-2.2-.4l-1.2 1.2m9.4-10.2-9.5 5.8s1.5 1 .3 2.2l-1.2 1.2 1 1"/>
+    <path id="reuse-31" stroke-width=".3" d="m551 18 5.3 5.3-2 2-5.1-5.4z"/>
+    <path id="reuse-32" stroke-width=".1" d="m551 18.7 4.6 4.6-1.2 1.2-4.6-4.5z"/>
+    <path id="reuse-33" stroke-width=".3" d="m575.9 32.7-7.4 8.2s-.8-1.6-2.2-.7l-1.4 1m11-8.5-10.3 4s1.2 1.3-.1 2.3l-1.4 1 .8 1.1"/>
+    <path id="reuse-34" stroke-width=".3" d="m562.7 37.1 4.2 6.1-2.1 1.6-4.3-6.1z"/>
+    <path id="reuse-35" stroke-width=".1" d="m562.6 37.8 3.7 5.3-1.5 1-3.6-5.3z"/>
+    <path id="reuse-36" fill="#00209f" stroke="#000" stroke-width=".3" d="M553 23.9s-5.5-1-6.8-.2c-1.4.8 2.3.8 3 .6l-1.4 1.4s-3.1-.8-3.6-3.8c-.6-3 1.5-3 2-2.9.5 0 3.3.5 6.8 4.9z"/>
+    <path id="reuse-37" fill="#d21034" stroke="#000" stroke-width=".1" d="M545.1 20.8c-.6.2-1 .6-.9 1.4 0 0 .2.9.5 1.4v-.1l.7.7.5-.1c0-.1 0-.3.3-.4l.5-.2c1-.4 2.5 0 2.8 0h1.7s-5-3-6.1-2.7z"/>
+    <path id="reuse-38" fill="none" stroke="#000" stroke-width=".1" d="M550.8 23.3s-6.1-1.8-6.1 0"/>
+    <path id="reuse-39" fill="none" stroke="#000" stroke-width=".3" d="M553 23.9s-5.5-1-6.8-.2c-1.4.8 2.3.8 3 .6l-1.4 1.4s-3.1-.8-3.6-3.8c-.6-3 1.5-3 2-2.9.5 0 3.3.5 6.8 4.9z"/>
+    <path id="reuse-40" fill="#00209f" stroke="#000" stroke-width=".1" d="M552.3 23.9a7 7 0 0 0-.2 2c1.7 4.5 4.2 4.6 3.2 10.2h2c.1-2.6-.3-5-.8-6.2-.2-.5-.7-1.2-1.3-1.8l-1.7-1.7c-.8-1-.2-2.2-.2-2.2z"/>
+    <path id="reuse-41" fill="#d21034" stroke="#000" stroke-width=".3" d="M551.1 23.4s-.3.9-.3 2.1c0 .6 0 1.3.3 2a32 32 0 0 1 1.2 8.6h3c1-5.6-1.5-5.7-3.2-10.2-.1-.5 0-1.4.2-2z"/>
+    <path id="reuse-42" fill="none" stroke="#000" stroke-width=".3" d="M553.3 24.2s-.6 1.2.2 2.2l1.7 1.7c.6.6 1 1.3 1.3 1.8.5 1.1 1 3.6.7 6.1m0 0-4.9.2a32 32 0 0 0-1.2-8.6l-.3-2c0-1.3.3-2.2.3-2.2l2.2.8"/>
+    <path id="reuse-43" fill="none" stroke="#000" stroke-width=".1" d="M553.9 36.1s.7-3-.9-5.8c-1.6-2.7-2-7-1.2-6.7"/>
+    <path id="reuse-44" fill="#f1b517" stroke="#000" stroke-width=".2" d="m548.4 80.4-4.2 7.4-16.7 1.2-1.5.2s-2.5 5.8-5.2 6.5l-20.7 6.4-.6-4.1 11.7-3.8s3.4-1.2 4.5-2.6c1-1.3 9.5-9.5 9.5-9.5z"/>
+    <path id="reuse-45" fill="#f1b517" d="m541 61.6-24.3 40.3.5.4 24.3-40.4z" color="#000" font-family="sans-serif" font-weight="400" overflow="visible"/>
+    <path id="reuse-46" fill="#fff" d="M540.5 63.2s.7.7 1.5-.4c.9-1 3.3-5.3 3.8-6 .5-.8 1.1-1.5.3-2s-2 .1-2.9 2c-.9 2-4 5.4-2.7 6.4z"/>
+    <path id="reuse-47" fill="#f1b517" stroke="#000" stroke-width=".1668" d="M562 68.8c.8-.2 2.4 1.6 2.8 4.7.4 3 0 5.6-1 5.8-.2 0-.6-.3-1-.9L514.5 85l-1-9.1 48-5.7c0-1.2 0-1.3.4-1.3z"/>
+    <path id="reuse-48" fill="#f4cf0e" stroke="#000" stroke-linecap="round" stroke-width=".1" d="m263 61.8-.3 1m-.7-1-.3 1m-.7-1-.3 1m-.7-1s-.3.7-.3 1.1m-.7-1s-.3.6-.3 1m-.8-1-.2 1m-.8-1-.2 1m-.8-1-.2 1.1m-.8-1-.2 1m-.8-1-.2 1m-.8-1-.2 1m-.8-1-.2 1.1m-.8-1-.3 1m-.7-1-.3 1m-.7-1-.3 1m-.7-1-.3 1.1m-.7-1-.3 1m-.7-1-.3 1m-.7-1-.3 1m-.7-1-.3 1.1m-.7-1-.3 1m-.7-1-.3 1m-.7-1-.3 1m-.7-1-.3 1.1m-.7-1-.3 1m-.7-1-.3 1m-.7-1-.3 1m-.7-1-.3 1.1m-.7-1-.3 1m-.7-1-.3 1m-.7-1-.3 1m-.7-1-.3 1m-.7-1s-.3.7-.3 1.1m-.7-1s-.3.6-.3 1m-.8-1-.2 1m-.8-1-.2 1m-.8-1-.2 1.1m-.8-1-.2 1m-.8-1-.2 1m-.8-1-.2 1m-.8-1-.2 1.1m-.8-1-.3 1m-.7-1-.3 1m-.7-1-.3 1m-.7-1-.3 1.1"/>
+    <path id="reuse-49" fill="none" stroke="#000" stroke-width=".3147" d="m563 73-48.9 6.7M563.2 74.2l-49 6.6M563.4 75.3l-49 6.6M563.4 75.8l-49 6.6M563.5 76.4l-49 6.6M563.6 77l-49 6.5M563.7 77.5l-49 6.6M563.7 78l-49 6.6"/>
+    <path id="reuse-50" fill="#f1b517" stroke="#000" stroke-linecap="round" stroke-width=".1049" d="M554.6 70.1a1.5 5-4 0 1 2 5 1.5 5-4 0 1-1.3 5.2 1.5 5-4 0 1-.5-.3 1.5 5-4 0 0 .7-4.8 1.5 5-4 0 0-1.4-4.7 1.5 5-4 0 1 .5-.4zM520.4 74.7a1.5 5-4 0 1 1.9 5 1.5 5-4 0 1-1.2 5.2 1.5 5-4 0 1-.5-.2 1.5 5-4 0 0 .7-4.9 1.5 5-4 0 0-1.4-4.7 1.5 5-4 0 1 .5-.4z"/>
+    <path id="reuse-51" fill="#f1b517" stroke="#000" stroke-width=".1049" d="m513.2 78.8-2.7-.2s-1.7.6-1.8 1.3c-.1.7-.2 1.8 0 2 .1.3 3.3 1 4.4 0z"/>
+    <path id="reuse-52" d="M508.7 80c1 .2 3 0 4.5 0v1.8c-1.2 1-4.4.4-4.5.2-.2-.3-.1-1.4 0-2z"/>
+    <path id="reuse-53" fill="#f1b517" stroke="#000" stroke-linecap="round" stroke-width=".1668" d="M513.7 75.5a1 5-3.7 0 1 .3.2 1 5.2-4 0 0-.1 4.4 1 5.2-4 0 0 1 4.7 1 5-3.7 0 1-.5.6 1 5-3.7 0 1-1.4-4.9 1 5-3.7 0 1 .7-5z"/>
+    <path id="reuse-54" fill="#f1b517" stroke="#000" stroke-linecap="round" stroke-width=".159" d="M443.7 74.9h0c.6.1 1 .6 1 1.2v8.3l-5.9-5.9c-.4-.4-.4-1-.1-1.5h0l-2.6 2.5h0c.5-.4 1.2-.4 1.7 0l6 6h-8.5c-.6 0-1.1-.4-1.3-1h0v3.7h0c.1-.7.6-1.1 1.3-1.1h8.4l-6 6c-.4.4-1 .4-1.6.1h0l2.5 2.6h0c-.3-.5-.3-1.2.1-1.7l6-6v8.5c0 .6-.4 1.1-1 1.2h3.6c-.6 0-1-.5-1-1.2V88l6 6.1c.4.5.5 1.2 0 1.7h0l2.6-2.6h0c-.5.3-1.1.3-1.5-.2l-6-6h8.4c.6 0 1.1.5 1.2 1.2h0v-3.6h0c-.1.5-.6 1-1.2 1h-8.5l6-6c.4-.5 1.1-.5 1.6 0v-.1l-2.5-2.5h0c.3.5.2 1.1-.2 1.5l-6 6v-8.4c0-.6.5-1.2 1.1-1.2h0z"/>
+    <path id="reuse-55" fill="#f1b517" stroke="#000" stroke-linecap="round" stroke-width=".159" d="M445.5 71.3a15 15 0 0 0-15.1 15 15 15 0 0 0 15 15.2 15 15 0 0 0 15.1-15.1 15 15 0 0 0-15-15.1zm0 3.8a11.3 11.3 0 0 1 11.2 11.3 11.3 11.3 0 0 1-11.2 11.2 11.3 11.3 0 0 1-11.3-11.2A11.3 11.3 0 0 1 445.5 75z"/>
+    <path id="reuse-56" fill="#fff" stroke="#000" stroke-width=".1" d="M498.2 68.6s5.9 2.5 6.4-1.8c0 0 3.6 4.4-1.3 7.3 0 0 2.2-3.6-5-4 0 0-1 .1-1-.7.1-.8 1-.8 1-.8z"/>
+    <path id="reuse-57" d="M497.3 69.6c.8 0 2.7.2 5.7.8 1.3.3 2.2.1 2.9-.2 0 1.3-.6 2.7-2.6 3.9 0 0 2.2-3.6-5-4 0 0-1 .1-1-.5z"/>
+    <path id="reuse-58" fill="#fff" stroke="#000" stroke-width=".1" d="M483.6 68.6h-.5l2 13.6h.5z" color="#000" font-family="sans-serif" font-weight="400" overflow="visible"/>
+    <path id="reuse-59" fill="#fff" stroke="#000" stroke-width=".1" d="m483.8 68.5-.9.2.4 2.7.9-.1z" color="#000" font-family="sans-serif" font-weight="400" overflow="visible"/>
+    <path id="reuse-60" stroke-width=".159" d="M472.8 84.8c-.4 0-.7 0-.8.3-.2.3.4.4.4.4v2.3c0 .7-.6 11.3-.9 13.3 0 .8-.2 1.4-.4 1.9 0 0-2.5.3-2.4 1.4.1 1.2 1.5 2 3.8 1.9 2.8-.1 3.6-.7 3.7-1.4.1-.7-.7-1.4-1.8-1.6l-.7-3.5s.2.5 1.8.2c1.6-.4 1.6-2.8 1.6-2.8v-8.8c-.2-1.3-.9-2-2-2.4-.8-.1-1.4 0-1.4.5-.1.5-.4.7-.5.5v-1.5s.6-.3.4-.5a2 2 0 0 0-.8-.2zm2 2.5.7.3.1 1.6v8.5l-.8.7-.8-.2-.5-.5-.3-7.2v-2.3l1-.7z"/>
+    <path id="reuse-61" fill="none" d="M474.6 104.2s-1-2.5-1.2-9c-.2-6.4-.3-7 0-7.2.3-.4 1.2-.9 1.7-.6.5.3.4.4.5 1.5v8.2s-.2 1.2-.9 1.2c-.6 0-1-.3-1.2-.8"/>
+    <path id="reuse-62" fill="none" d="M470.4 104.3s.9-1.1 1.1-3.2c.3-2 .9-12.6.9-13.3v-2.3"/>
+    <path id="reuse-63" stroke-width=".3" d="M524.8 96.6s-3.2.1-4.3 2.1c-1 2-.4 3.9.8 4.7 1.2.7 3.9 1.3 5.1.5 1.2-.7 2.1-3.2.7-3.5-1.4-.3-3.8-.7-3.5-1.7.3-1 1.5-1 1.5-1z"/>
+    <path id="reuse-64" stroke-width=".1" d="M491.6 178.4h.6v2.2h-.6z"/>
+    <path id="reuse-65" fill="#fff" stroke="#000" stroke-width=".3" d="m570.1 86.3-13.6 7v.2l1 .1 13-6.7z" color="#000" font-family="sans-serif" font-weight="400" overflow="visible"/>
+    <path id="reuse-66" fill="#fff" stroke="#000" stroke-width=".3" d="m570.5 86.6-7.6 13.6 1.2-.7 7-12.5z" color="#000" font-family="sans-serif" font-weight="400" overflow="visible"/>
+    <path id="reuse-67" d="M583.6 73.4a.4.4 0 0 0-.2 0l-13 13a.4.4 0 1 0 .6.4l12.7-12.6v-.8z" color="#000" font-family="sans-serif" font-weight="400" overflow="visible"/>
+    <path id="reuse-68" fill="#fff" stroke="#000" stroke-linecap="round" stroke-width=".3" d="M572.6 84.4a.4.4 0 0 0-.3.1l-12.8 12.7h1L572.9 85a.4.4 0 0 0-.2-.6z" color="#000" font-family="sans-serif" font-weight="400" overflow="visible"/>
+    <path id="reuse-69" fill="#d21034" stroke="#000" stroke-width=".3" d="M535.7 13s-.2 2 1.4 3c1.6 1.2 3.5 2.4 4.3 5.6.7 3.2.2 2.8.2 2.8l-5 .9s.5-2.3-.7-4c-1.2-1.8-3-7-1.3-9z"/>
+    <path id="reuse-70" fill="#00209f" stroke="#000" stroke-width=".159" d="M535.6 13c-.3.7-.8 2.4.3 3.7 1.5 1.5 3 2.3 3.5 4.5l.7 3.5 1.5-.3s.5.4-.2-2.8c-.8-3.2-2.7-4.4-4.3-5.5-1.6-1.1-1.4-3-1.4-3z"/>
+    <path id="reuse-71" fill="none" stroke="#000" stroke-width=".1" d="M535 12.2s-1 2.1 0 4.3c1.1 2.1 2.1 3.2 2.7 4.6.6 1.4 0 2.7.7 3.7"/>
+    <path id="reuse-72" fill="#fff" stroke="#000" stroke-linecap="round" stroke-width=".1" d="M573.9 107a.2.2 0 1 0 0 .4s3.5-.6 6 2a.2.2 0 1 0 .3-.3c-2.7-2.7-6.3-2.1-6.3-2.1z" color="#000" font-family="sans-serif" font-weight="400" overflow="visible"/>
+    <path id="reuse-73" fill="#fff" stroke="#000" stroke-width=".1" d="M579.8 110.8s0 .5.5 1c.4.6 1.3 1 3 1.1v-.4c-1.7 0-2.4-.5-2.7-1-.4-.3-.4-.7-.4-.7z" color="#000" font-family="sans-serif" font-weight="400" overflow="visible"/>
+    <path id="reuse-74" fill="#f1b517" d="M584.6 114.8a3 3 0 0 1 2-1.7s.1-.1-.3-1.1-.2-1.8-.2-1.8c.1-5.3-.4-6.8-.4-6.8.4 0 2 2 2 2 0-5-7.5-7.5-7.5-7.5 2.7 7 1.7 7.9 1.7 7.9 1.7-.8 2-2 2-2 .3 2 0 5.7 0 5.7s0 1.7-1.6.9l-5.1-2.5-.4 1.4 5.7 2.7s1.3.6 1 1.6l-.6 1.2z"/>
+    <path id="reuse-76" fill="#00209f" stroke="#000" stroke-width=".3" d="M560.7 38.9s-3-1.5-3.7-.2c-.7 1.2-1 3.6 0 5 0 0 4.3.6 6.5-.2l.3-.2z"/>
+    <path id="reuse-77" fill="#d21034" stroke="#000" stroke-width=".159" d="M557.8 40.2a3 3 0 0 0-1.3.3c-.2 1.1 0 2.4.5 3.2 0 0 3.8.5 6.1 0-1-.4-3-2.2-4.3-3.1-.3-.3-.7-.4-1-.4z"/>
+    <path id="reuse-78" fill="none" stroke="#000" stroke-width=".1" d="M556.5 42.6s1.4-1 3.7.1l2.3.9"/>
+    <path id="reuse-79" fill="none" stroke="#000" stroke-width=".3" d="M560.7 38.9s-3-1.5-3.7-.2c-.7 1.2-1 3.6 0 5 0 0 4.3.6 6.5-.2l.3-.2z"/>
+    <path id="reuse-80" fill="none" stroke="#000" stroke-width=".1" d="M561.6 43.8s.5 2 .6 6c.1 4.2-.8 7-1.1 6.9"/>
+    <path id="reuse-81" fill="none" stroke="#000" stroke-width=".3" d="M563.7 43.2s1.8 1.8 2 5.7l.2 6.6s-2.8 1.7-5.5 1c0 0 .5-1.1.5-2.8v-10M537.9 25s1.4 5.7 1.6 8.3"/>
+    <path id="reuse-82" fill="none" stroke="#000" stroke-width=".1" d="M527.2 13.2s1.4-2 5.5-.3"/>
+  </defs>
+  <path fill="#d21034" d="M0 0h1000v600H0z"/>
+  <path fill="#00209f" d="M0 0h1000v300H0z"/>
+  <path fill="#fff" d="M324.4 156.5h351.2V443H324.4z"/>
+  <path fill="#016a16" d="M499.3 359.7v.1c-7.6.8-88.7 9.7-110.7 26.2-23.1 17.2-64.2 35.3-64.2 35.3v22.2h351.3v-22.2s-41.2-18-64.3-35.3c-22-16.5-103.1-25.4-110.7-26.2v-.1h-1.4z"/>
+  <g fill="red" stroke="#000" stroke-width=".3">
+    <use xlink:href="#reuse-0" transform="matrix(1.6 0 0 1.557 -288.3 235.5)"/>
+    <use xlink:href="#reuse-1" transform="matrix(1.6 0 0 1.557 -288.3 235.5)"/>
+    <use xlink:href="#reuse-2" transform="matrix(1.6 0 0 1.557 -288.3 235.5)"/>
+  </g>
+  <g stroke="#000">
+    <use xlink:href="#reuse-3" stroke-width="1.2" transform="matrix(.423 0 0 .412 -288 234.5)"/>
+    <use xlink:href="#reuse-4" stroke-width=".6" transform="matrix(.423 0 0 .412 -288 234.5)"/>
+    <use xlink:href="#reuse-5" transform="matrix(.423 0 0 .412 -288 234.5)"/>
+    <use xlink:href="#reuse-6" stroke-width="1.2" transform="matrix(.423 0 0 .412 -288 234.5)"/>
+    <use xlink:href="#reuse-3" stroke-width="1.2" transform="matrix(.421 .041 -.042 .41 -273 152.9)"/>
+    <use xlink:href="#reuse-7" stroke-width=".6" transform="matrix(.421 .041 -.042 .41 -273 152.9)"/>
+    <use xlink:href="#reuse-5" transform="matrix(.421 .041 -.042 .41 -273 152.9)"/>
+    <use xlink:href="#reuse-6" stroke-width="1.2" transform="matrix(.421 .041 -.042 .41 -273 152.9)"/>
+    <use xlink:href="#reuse-8" stroke-width=".1" transform="matrix(1.6 0 0 1.557 -288 234.5)"/>
+    <use xlink:href="#reuse-9" stroke-width=".3" transform="matrix(1.6 0 0 1.557 -288 234.5)"/>
+    <use xlink:href="#reuse-10" stroke-width=".6" transform="matrix(.423 0 0 .412 -288 234.5)"/>
+    <use xlink:href="#reuse-11" stroke-width=".3" transform="matrix(1.6 0 0 1.557 -288 234.5)"/>
+    <use xlink:href="#reuse-3" stroke-width="1.2" transform="matrix(.417 .07 -.073 .406 -252.9 98)"/>
+    <use xlink:href="#reuse-7" stroke-width=".6" transform="matrix(.417 .07 -.073 .406 -252.9 98)"/>
+    <use xlink:href="#reuse-5" transform="matrix(.417 .07 -.073 .406 -252.9 98)"/>
+    <use xlink:href="#reuse-6" stroke-width="1.2" transform="matrix(.417 .07 -.073 .406 -252.9 98)"/>
+    <use xlink:href="#reuse-8" stroke-width=".1" transform="matrix(1.595 .113 -.116 1.553 -274 178.3)"/>
+    <use xlink:href="#reuse-9" stroke-width=".3" transform="matrix(1.595 .113 -.116 1.553 -274 178.3)"/>
+    <use xlink:href="#reuse-10" stroke-width=".6" transform="matrix(.422 .03 -.03 .41 -274 178.3)"/>
+    <use xlink:href="#reuse-11" stroke-width=".3" transform="matrix(1.595 .113 -.116 1.553 -274 178.3)"/>
+  </g>
+  <g transform="matrix(-1.6 0 0 1.557 1288.3 235.5)">
+    <path fill="#d21034" d="m522.6 69.8-1.5 15.8-20-1.4z"/>
+    <use xlink:href="#reuse-12"/>
+    <use xlink:href="#reuse-13" stroke-width=".3"/>
+    <use xlink:href="#reuse-14" stroke-width=".3"/>
+    <use xlink:href="#reuse-15" stroke-width=".159"/>
+    <path fill="#d21034" d="m495.6 74.5 23.9-21.8c5.3 2.4 4.9 6.6 1.2 12l.1 5.3-19.5 13.6-5.4-1.3-.2-5zM496.3 60.5 511 41.6l3.7 8.2-1.2 7.8L496 74z"/>
+    <use xlink:href="#reuse-16"/>
+    <use xlink:href="#reuse-17" stroke-width=".3"/>
+    <use xlink:href="#reuse-18" stroke-width=".159"/>
+    <use xlink:href="#reuse-19"/>
+    <use xlink:href="#reuse-20" stroke-width=".3"/>
+    <use xlink:href="#reuse-21" stroke-width=".1"/>
+    <use xlink:href="#reuse-22" stroke-width=".1" color="#000" font-family="sans-serif" font-weight="400" overflow="visible"/>
+    <use xlink:href="#reuse-23" stroke-width=".1"/>
+    <use xlink:href="#reuse-24" stroke-width=".1"/>
+    <circle cx="551.1" cy="100.3" r="2.4" fill="#f1b517" stroke="#000" stroke-linecap="round" stroke-width=".1"/>
+    <use xlink:href="#reuse-25"/>
+    <path fill="#00209f" d="M552.6 48c.7-10.9-1.2-23.6-1.2-23.6l-.2-2-32.6 31.3s2.2 3.3 1.9 16.5l2.5-1.7z"/>
+    <use xlink:href="#reuse-26" stroke-width=".3"/>
+    <g fill="#f1b517" stroke="#000">
+      <use xlink:href="#reuse-27" stroke-width=".3"/>
+      <use xlink:href="#reuse-28" stroke-width=".3"/>
+      <use xlink:href="#reuse-29" stroke-width=".1"/>
+    </g>
+    <g fill="#f1b517" stroke="#000">
+      <use xlink:href="#reuse-30" stroke-width=".3"/>
+      <use xlink:href="#reuse-31" stroke-width=".3"/>
+      <use xlink:href="#reuse-32" stroke-width=".1"/>
+    </g>
+    <g fill="#f1b517" stroke="#000">
+      <use xlink:href="#reuse-33" stroke-width=".3"/>
+      <use xlink:href="#reuse-34" stroke-width=".3"/>
+      <use xlink:href="#reuse-35" stroke-width=".1"/>
+    </g>
+    <path fill="#f1b517" stroke="#000" stroke-width=".3" d="m534 11.5-37.8 48 .2.8L534.7 12zM550.4 23.2 495.7 74l.5.6 54.7-50.8zM559.2 43.6 501 83.5l.5.6 58.3-40z" color="#000" font-family="sans-serif" font-weight="400" overflow="visible"/>
+    <use xlink:href="#reuse-36" stroke-width=".3"/>
+    <use xlink:href="#reuse-37" stroke-width=".1"/>
+    <use xlink:href="#reuse-38" stroke-width=".1"/>
+    <use xlink:href="#reuse-39" stroke-width=".3"/>
+    <use xlink:href="#reuse-40" stroke-width=".1"/>
+    <use xlink:href="#reuse-41" stroke-width=".3"/>
+    <use xlink:href="#reuse-42" stroke-width=".3"/>
+    <use xlink:href="#reuse-43" stroke-width=".1"/>
+    <use xlink:href="#reuse-44" stroke-width=".2"/>
+    <g stroke="#000" stroke-width=".3">
+      <use xlink:href="#reuse-45" color="#000" font-family="sans-serif" font-weight="400" overflow="visible"/>
+      <use xlink:href="#reuse-46"/>
+    </g>
+    <use xlink:href="#reuse-47" stroke-width=".1668"/>
+    <use xlink:href="#reuse-48" stroke-linecap="round" stroke-width=".1" transform="matrix(-1.04 .14 .098 .729 782.8 -6.2)"/>
+    <use xlink:href="#reuse-49" stroke-width=".3147"/>
+    <use xlink:href="#reuse-50" stroke-linecap="round" stroke-width=".1049"/>
+    <use xlink:href="#reuse-51" stroke-width=".1049"/>
+    <use xlink:href="#reuse-52"/>
+    <use xlink:href="#reuse-53" stroke-linecap="round" stroke-width=".1668"/>
+    <g transform="matrix(-1 0 0 1 985 .7)">
+      <use xlink:href="#reuse-54" stroke-linecap="round" stroke-width=".159"/>
+      <circle cx="445.5" cy="86.5" r="2.3" fill="#f1b517" stroke="#000" stroke-linecap="round" stroke-width=".1"/>
+      <use xlink:href="#reuse-55" stroke-linecap="round" stroke-width=".159"/>
+      <circle cx="445.5" cy="73.1" r=".5"/>
+      <circle cx="445.5" cy="99.5" r=".5"/>
+      <g transform="rotate(45 445.5 86.3)">
+        <circle cx="445.5" cy="73.1" r=".5"/>
+        <circle cx="445.5" cy="99.5" r=".5"/>
+      </g>
+      <g transform="scale(-1 1) rotate(45 0 -989.1)">
+        <circle cx="445.5" cy="73.1" r=".5"/>
+        <circle cx="445.5" cy="99.5" r=".5"/>
+      </g>
+      <g transform="matrix(0 1 1 0 359.2 -359.2)">
+        <circle cx="445.5" cy="73.1" r=".5"/>
+        <circle cx="445.5" cy="99.5" r=".5"/>
+      </g>
+      <g transform="scale(1 -1) rotate(-67.9 317.4 0)">
+        <circle cx="445.5" cy="73.1" r=".5"/>
+        <circle cx="445.5" cy="99.5" r=".5"/>
+      </g>
+      <g transform="rotate(113.4 445.5 86.3)">
+        <circle cx="445.5" cy="73.1" r=".5"/>
+        <circle cx="445.5" cy="99.5" r=".5"/>
+      </g>
+      <g transform="rotate(23 445.5 86.3)">
+        <circle cx="445.5" cy="73.1" r=".5"/>
+        <circle cx="445.5" cy="99.5" r=".5"/>
+      </g>
+      <g transform="scale(-1 1) rotate(23.1 0 -2095.6)">
+        <circle cx="445.5" cy="73.1" r=".5"/>
+        <circle cx="445.5" cy="99.5" r=".5"/>
+      </g>
+    </g>
+    <circle cx="557" cy="100.3" r="2.4" fill="#f1b517" stroke="#000" stroke-linecap="round" stroke-width=".1"/>
+    <use xlink:href="#reuse-56" stroke-width=".1"/>
+    <use xlink:href="#reuse-57"/>
+    <use xlink:href="#reuse-58" stroke-width=".1" color="#000" font-family="sans-serif" font-weight="400" overflow="visible" transform="matrix(-1 0 0 1 984.4 0)"/>
+    <use xlink:href="#reuse-59" stroke-width=".1" color="#000" font-family="sans-serif" font-weight="400" overflow="visible" transform="matrix(-1 0 0 1 984.4 0)"/>
+    <g stroke="#000" stroke-width=".1" transform="matrix(-1 0 0 1 984.5 0)">
+      <ellipse cx="472.4" cy="104.8" fill="#fff" rx="3.6" ry="1.7"/>
+      <g fill="#f1b517">
+        <use xlink:href="#reuse-60" stroke-width=".159"/>
+        <use xlink:href="#reuse-61"/>
+      </g>
+      <use xlink:href="#reuse-62"/>
+    </g>
+    <g fill="#fff" stroke="#000">
+      <use xlink:href="#reuse-63" stroke-width=".3"/>
+      <use xlink:href="#reuse-64" stroke-width=".1" transform="matrix(.987 -.158 .219 .976 0 0)"/>
+    </g>
+    <use xlink:href="#reuse-65" stroke-width=".3" color="#000" font-family="sans-serif" font-weight="400" overflow="visible"/>
+    <use xlink:href="#reuse-66" stroke-width=".3" color="#000" font-family="sans-serif" font-weight="400" overflow="visible"/>
+    <use xlink:href="#reuse-67" color="#000" font-family="sans-serif" font-weight="400" overflow="visible"/>
+    <use xlink:href="#reuse-68" stroke-linecap="round" stroke-width=".3" color="#000" font-family="sans-serif" font-weight="400" overflow="visible"/>
+    <circle cx="524" cy="109.9" r="2.4" fill="#f1b517" stroke="#000" stroke-linecap="round" stroke-width=".1"/>
+    <circle cx="529.7" cy="105.1" r="2.4" fill="#f1b517" stroke="#000" stroke-linecap="round" stroke-width=".1"/>
+    <circle cx="538.4" cy="105.7" r="2.4" fill="#f1b517" stroke="#000" stroke-linecap="round" stroke-width=".1"/>
+    <circle cx="545.1" cy="109.3" r="2.4" fill="#f1b517" stroke="#000" stroke-linecap="round" stroke-width=".1"/>
+    <circle cx="550.9" cy="109.3" r="2.4" fill="#f1b517" stroke="#000" stroke-linecap="round" stroke-width=".1"/>
+    <circle cx="556.7" cy="109.3" r="2.4" fill="#f1b517" stroke="#000" stroke-linecap="round" stroke-width=".1"/>
+    <circle cx="562.5" cy="109.3" r="2.4" fill="#f1b517" stroke="#000" stroke-linecap="round" stroke-width=".1"/>
+    <circle cx="548.1" cy="104.9" r="2.4" fill="#f1b517" stroke="#000" stroke-linecap="round" stroke-width=".1"/>
+    <circle cx="553.9" cy="104.9" r="2.4" fill="#f1b517" stroke="#000" stroke-linecap="round" stroke-width=".1"/>
+    <circle cx="559.7" cy="104.9" r="2.4" fill="#f1b517" stroke="#000" stroke-linecap="round" stroke-width=".1"/>
+    <use xlink:href="#reuse-69" stroke-width=".3"/>
+    <use xlink:href="#reuse-70" stroke-width=".159"/>
+    <use xlink:href="#reuse-71" stroke-width=".1"/>
+    <use xlink:href="#reuse-72" stroke-linecap="round" stroke-width=".1" color="#000" font-family="sans-serif" font-weight="400" overflow="visible"/>
+    <use xlink:href="#reuse-73" stroke-width=".1" color="#000" font-family="sans-serif" font-weight="400" overflow="visible"/>
+    <use xlink:href="#reuse-74"/>
+    <use xlink:href="#reuse-75" color="#000" font-family="sans-serif" font-weight="400" overflow="visible" transform="scale(.265)"/>
+    <use xlink:href="#reuse-76" stroke-width=".3"/>
+    <use xlink:href="#reuse-77" stroke-width=".159"/>
+    <use xlink:href="#reuse-78" stroke-width=".1"/>
+    <use xlink:href="#reuse-79" stroke-width=".3"/>
+    <use xlink:href="#reuse-80" stroke-width=".1"/>
+    <use xlink:href="#reuse-81" stroke-width=".3"/>
+    <use xlink:href="#reuse-82" stroke-width=".1"/>
+  </g>
+  <path fill="#016a16" stroke="#000" stroke-width=".3" d="m499.1-5.2.9-27 3.8-2.1L505-5.2z" transform="matrix(1.475 0 0 1.436 -240.6 251.7)"/>
+  <path fill="#00209f" stroke="#000" stroke-width=".3" d="M500.7-57s-.4 0-1-.6-1-.6-.5-1.5 1.1-2 3.3-1.9c2 .2 3.7.3 4.4 2.5.8 2.2 1 8.2.4 10.7-3.2-.2-8-2.8-8.8-4.5-.8-1.7 2.2-4.7 2.2-4.7z" transform="matrix(1.475 0 0 1.436 -240.6 251.7)"/>
+  <g stroke="#000">
+    <use xlink:href="#reuse-3" stroke-width="1.2" transform="matrix(-.423 0 0 .412 1287.8 234.5)"/>
+    <use xlink:href="#reuse-4" stroke-width=".6" transform="matrix(-.423 0 0 .412 1287.8 234.5)"/>
+    <use xlink:href="#reuse-5" transform="matrix(-.423 0 0 .412 1287.8 234.5)"/>
+    <use xlink:href="#reuse-6" stroke-width="1.2" transform="matrix(-.423 0 0 .412 1287.8 234.5)"/>
+    <use xlink:href="#reuse-3" stroke-width="1.2" transform="matrix(-.421 .041 .042 .41 1272.7 152.9)"/>
+    <use xlink:href="#reuse-7" stroke-width=".6" transform="matrix(-.421 .041 .042 .41 1272.7 152.9)"/>
+    <use xlink:href="#reuse-5" transform="matrix(-.421 .041 .042 .41 1272.7 152.9)"/>
+    <use xlink:href="#reuse-6" stroke-width="1.2" transform="matrix(-.421 .041 .042 .41 1272.7 152.9)"/>
+    <use xlink:href="#reuse-8" stroke-width=".1" transform="matrix(-1.6 0 0 1.557 1287.8 234.5)"/>
+    <use xlink:href="#reuse-9" stroke-width=".3" transform="matrix(-1.6 0 0 1.557 1287.8 234.5)"/>
+    <use xlink:href="#reuse-10" stroke-width=".6" transform="matrix(-.423 0 0 .412 1287.8 234.5)"/>
+    <use xlink:href="#reuse-11" stroke-width=".3" transform="matrix(-1.6 0 0 1.557 1287.8 234.5)"/>
+    <use xlink:href="#reuse-3" stroke-width="1.2" transform="matrix(-.417 .07 .073 .406 1252.6 98)"/>
+    <use xlink:href="#reuse-7" stroke-width=".6" transform="matrix(-.417 .07 .073 .406 1252.6 98)"/>
+    <use xlink:href="#reuse-5" transform="matrix(-.417 .07 .073 .406 1252.6 98)"/>
+    <use xlink:href="#reuse-6" stroke-width="1.2" transform="matrix(-.417 .07 .073 .406 1252.6 98)"/>
+    <use xlink:href="#reuse-8" stroke-width=".1" transform="matrix(-1.595 .113 .116 1.553 1273.7 178.3)"/>
+    <use xlink:href="#reuse-9" stroke-width=".3" transform="matrix(-1.595 .113 .116 1.553 1273.7 178.3)"/>
+    <use xlink:href="#reuse-10" stroke-width=".6" transform="matrix(-.422 .03 .03 .41 1273.7 178.3)"/>
+    <use xlink:href="#reuse-11" stroke-width=".3" transform="matrix(-1.595 .113 .116 1.553 1273.7 178.3)"/>
+  </g>
+  <path fill="none" stroke="#000" stroke-linecap="round" stroke-width=".3" d="M505-56s-2.5.4-2.4 1.7" transform="matrix(1.475 0 0 1.436 -240.6 251.7)"/>
+  <path fill="none" stroke="#000" stroke-width=".3" d="M503.8-58.9s-3 .8-4 3.4" transform="matrix(1.475 0 0 1.436 -240.6 251.7)"/>
+  <path fill="none" stroke="#000" stroke-width=".3" d="M502.5-58.5s-1.8 1.5-2.5 1" transform="matrix(1.475 0 0 1.436 -240.6 251.7)"/>
+  <path fill="#d21034" stroke="#000" stroke-width=".3" d="M499.5-54.9h-.1l-.4.1c-.5.9-.8 1.8-.5 2.5l.2.4.3-.1s5.7-.5 8.2 3.8l.1.3c.2-1 .3-2.6.3-4.2a14 14 0 0 0-8-2.8z" transform="matrix(1.475 0 0 1.436 -240.6 251.7)"/>
+  <path fill="none" stroke="#000" stroke-linecap="round" stroke-width=".3" d="M506.2-54.7s-1.4.6-1.4 1.2" transform="matrix(1.475 0 0 1.436 -240.6 251.7)"/>
+  <g transform="matrix(1.6 0 0 1.557 -288.3 235.5)">
+    <path fill="#d21034" d="m521.4 70.3-.3 15.3-20-1.4z"/>
+    <use xlink:href="#reuse-12"/>
+    <use xlink:href="#reuse-13" stroke-width=".3"/>
+    <use xlink:href="#reuse-14" stroke-width=".3"/>
+    <use xlink:href="#reuse-15" stroke-width=".159"/>
+    <path fill="#d21034" d="m495.6 74.5 23.9-21.8L523 61l-2.2 9.1-19.5 13.6-5.4-1.3-.2-5zM496.3 60.5 511 41.6l3.7 8.2-1.2 7.8L496 74z"/>
+    <use xlink:href="#reuse-16"/>
+    <use xlink:href="#reuse-17" stroke-width=".3"/>
+    <use xlink:href="#reuse-18" stroke-width=".159"/>
+    <use xlink:href="#reuse-19"/>
+    <use xlink:href="#reuse-20" stroke-width=".3"/>
+    <use xlink:href="#reuse-21" stroke-width=".1"/>
+    <use xlink:href="#reuse-22" stroke-width=".1" color="#000" font-family="sans-serif" font-weight="400" overflow="visible"/>
+    <use xlink:href="#reuse-23" stroke-width=".1"/>
+    <use xlink:href="#reuse-24" stroke-width=".1"/>
+    <circle cx="551.1" cy="100.3" r="2.4" fill="#f1b517" stroke="#000" stroke-linecap="round" stroke-width=".1"/>
+    <use xlink:href="#reuse-25"/>
+    <path fill="#00209f" d="M552.6 48c.7-10.9-1.2-23.6-1.2-23.6l-.2-2-32.6 31.3s2.4-2.5 1.6 10.4l2.8 4.4z"/>
+    <use xlink:href="#reuse-26" stroke-width=".3"/>
+    <g fill="#f1b517" stroke="#000">
+      <use xlink:href="#reuse-27" stroke-width=".3"/>
+      <use xlink:href="#reuse-28" stroke-width=".3"/>
+      <use xlink:href="#reuse-29" stroke-width=".1"/>
+    </g>
+    <g fill="#f1b517" stroke="#000">
+      <use xlink:href="#reuse-30" stroke-width=".3"/>
+      <use xlink:href="#reuse-31" stroke-width=".3"/>
+      <use xlink:href="#reuse-32" stroke-width=".1"/>
+    </g>
+    <g fill="#f1b517" stroke="#000">
+      <use xlink:href="#reuse-33" stroke-width=".3"/>
+      <use xlink:href="#reuse-34" stroke-width=".3"/>
+      <use xlink:href="#reuse-35" stroke-width=".1"/>
+    </g>
+    <path fill="#f1b517" stroke="#000" stroke-width=".3" d="m534 11.5-37.8 48 .2.9 38.3-48.5zM550.4 23.2 495.7 74l.5.6 54.7-50.8zM559.2 43.6 501 83.5l.5.6 58.3-40z" color="#000" font-family="sans-serif" font-weight="400" overflow="visible"/>
+    <use xlink:href="#reuse-36" stroke-width=".3"/>
+    <use xlink:href="#reuse-37" stroke-width=".1"/>
+    <use xlink:href="#reuse-38" stroke-width=".1"/>
+    <use xlink:href="#reuse-39" stroke-width=".3"/>
+    <use xlink:href="#reuse-40" stroke-width=".1"/>
+    <use xlink:href="#reuse-41" stroke-width=".3"/>
+    <use xlink:href="#reuse-42" stroke-width=".3"/>
+    <use xlink:href="#reuse-43" stroke-width=".1"/>
+    <use xlink:href="#reuse-44" stroke-width=".2"/>
+    <g stroke="#000" stroke-width=".3">
+      <use xlink:href="#reuse-45" color="#000" font-family="sans-serif" font-weight="400" overflow="visible"/>
+      <use xlink:href="#reuse-46"/>
+    </g>
+    <use xlink:href="#reuse-47" stroke-width=".1668"/>
+    <use xlink:href="#reuse-48" stroke-linecap="round" stroke-width=".1" transform="matrix(-1.04 .14 .098 .729 782.8 -6.2)"/>
+    <use xlink:href="#reuse-49" stroke-width=".3147"/>
+    <use xlink:href="#reuse-50" stroke-linecap="round" stroke-width=".1049"/>
+    <use xlink:href="#reuse-51" stroke-width=".1049"/>
+    <use xlink:href="#reuse-52"/>
+    <use xlink:href="#reuse-53" stroke-linecap="round" stroke-width=".1668"/>
+    <g transform="matrix(-1 0 0 1 985 .7)">
+      <use xlink:href="#reuse-54" stroke-linecap="round" stroke-width=".159"/>
+      <circle cx="445.5" cy="86.5" r="2.3" fill="#f1b517" stroke="#000" stroke-linecap="round" stroke-width=".1"/>
+      <use xlink:href="#reuse-55" stroke-linecap="round" stroke-width=".159"/>
+      <circle cx="445.5" cy="73.1" r=".5"/>
+      <circle cx="445.5" cy="99.5" r=".5"/>
+      <g transform="rotate(45 445.5 86.3)">
+        <circle cx="445.5" cy="73.1" r=".5"/>
+        <circle cx="445.5" cy="99.5" r=".5"/>
+      </g>
+      <g transform="scale(-1 1) rotate(45 0 -989.1)">
+        <circle cx="445.5" cy="73.1" r=".5"/>
+        <circle cx="445.5" cy="99.5" r=".5"/>
+      </g>
+      <g transform="matrix(0 1 1 0 359.2 -359.2)">
+        <circle cx="445.5" cy="73.1" r=".5"/>
+        <circle cx="445.5" cy="99.5" r=".5"/>
+      </g>
+      <g transform="scale(1 -1) rotate(-67.9 317.4 0)">
+        <circle cx="445.5" cy="73.1" r=".5"/>
+        <circle cx="445.5" cy="99.5" r=".5"/>
+      </g>
+      <g transform="rotate(113.4 445.5 86.3)">
+        <circle cx="445.5" cy="73.1" r=".5"/>
+        <circle cx="445.5" cy="99.5" r=".5"/>
+      </g>
+      <g transform="rotate(23 445.5 86.3)">
+        <circle cx="445.5" cy="73.1" r=".5"/>
+        <circle cx="445.5" cy="99.5" r=".5"/>
+      </g>
+      <g transform="scale(-1 1) rotate(23.1 0 -2095.6)">
+        <circle cx="445.5" cy="73.1" r=".5"/>
+        <circle cx="445.5" cy="99.5" r=".5"/>
+      </g>
+    </g>
+    <circle cx="557" cy="100.3" r="2.4" fill="#f1b517" stroke="#000" stroke-linecap="round" stroke-width=".1"/>
+    <use xlink:href="#reuse-56" stroke-width=".1"/>
+    <use xlink:href="#reuse-57"/>
+    <use xlink:href="#reuse-58" stroke-width=".1" color="#000" font-family="sans-serif" font-weight="400" overflow="visible" transform="matrix(-1 0 0 1 984.4 0)"/>
+    <use xlink:href="#reuse-59" stroke-width=".1" color="#000" font-family="sans-serif" font-weight="400" overflow="visible" transform="matrix(-1 0 0 1 984.4 0)"/>
+    <g stroke="#000" stroke-width=".1" transform="matrix(-1 0 0 1 984.5 0)">
+      <ellipse cx="472.4" cy="104.8" fill="#fff" rx="3.6" ry="1.7"/>
+      <g fill="#f1b517">
+        <use xlink:href="#reuse-60" stroke-width=".159"/>
+        <use xlink:href="#reuse-61"/>
+      </g>
+      <use xlink:href="#reuse-62"/>
+    </g>
+    <g fill="#fff" stroke="#000">
+      <use xlink:href="#reuse-63" stroke-width=".3"/>
+      <use xlink:href="#reuse-64" stroke-width=".1" transform="matrix(.987 -.158 .219 .976 0 0)"/>
+    </g>
+    <use xlink:href="#reuse-65" stroke-width=".3" color="#000" font-family="sans-serif" font-weight="400" overflow="visible"/>
+    <use xlink:href="#reuse-66" stroke-width=".3" color="#000" font-family="sans-serif" font-weight="400" overflow="visible"/>
+    <use xlink:href="#reuse-67" color="#000" font-family="sans-serif" font-weight="400" overflow="visible"/>
+    <use xlink:href="#reuse-68" stroke-linecap="round" stroke-width=".3" color="#000" font-family="sans-serif" font-weight="400" overflow="visible"/>
+    <circle cx="524" cy="109.9" r="2.4" fill="#f1b517" stroke="#000" stroke-linecap="round" stroke-width=".1"/>
+    <circle cx="529.7" cy="105.1" r="2.4" fill="#f1b517" stroke="#000" stroke-linecap="round" stroke-width=".1"/>
+    <circle cx="538.4" cy="105.7" r="2.4" fill="#f1b517" stroke="#000" stroke-linecap="round" stroke-width=".1"/>
+    <circle cx="545.1" cy="109.3" r="2.4" fill="#f1b517" stroke="#000" stroke-linecap="round" stroke-width=".1"/>
+    <circle cx="550.9" cy="109.3" r="2.4" fill="#f1b517" stroke="#000" stroke-linecap="round" stroke-width=".1"/>
+    <circle cx="556.7" cy="109.3" r="2.4" fill="#f1b517" stroke="#000" stroke-linecap="round" stroke-width=".1"/>
+    <circle cx="562.5" cy="109.3" r="2.4" fill="#f1b517" stroke="#000" stroke-linecap="round" stroke-width=".1"/>
+    <circle cx="548.1" cy="104.9" r="2.4" fill="#f1b517" stroke="#000" stroke-linecap="round" stroke-width=".1"/>
+    <circle cx="553.9" cy="104.9" r="2.4" fill="#f1b517" stroke="#000" stroke-linecap="round" stroke-width=".1"/>
+    <circle cx="559.7" cy="104.9" r="2.4" fill="#f1b517" stroke="#000" stroke-linecap="round" stroke-width=".1"/>
+    <use xlink:href="#reuse-69" stroke-width=".3"/>
+    <use xlink:href="#reuse-70" stroke-width=".159"/>
+    <use xlink:href="#reuse-71" stroke-width=".1"/>
+    <use xlink:href="#reuse-72" stroke-linecap="round" stroke-width=".1" color="#000" font-family="sans-serif" font-weight="400" overflow="visible"/>
+    <use xlink:href="#reuse-73" stroke-width=".1" color="#000" font-family="sans-serif" font-weight="400" overflow="visible"/>
+    <use xlink:href="#reuse-74"/>
+    <use xlink:href="#reuse-75" color="#000" font-family="sans-serif" font-weight="400" overflow="visible" transform="scale(.265)"/>
+    <use xlink:href="#reuse-76" stroke-width=".3"/>
+    <use xlink:href="#reuse-77" stroke-width=".159"/>
+    <use xlink:href="#reuse-78" stroke-width=".1"/>
+    <use xlink:href="#reuse-79" stroke-width=".3"/>
+    <use xlink:href="#reuse-80" stroke-width=".1"/>
+    <use xlink:href="#reuse-81" stroke-width=".3"/>
+    <g stroke="#000" stroke-width=".1">
+      <path fill="#d21034" stroke-width=".0829" d="M522.3 69.2s1.6-1.7 1.7-2.5c0-.7 0-1.9-1-2-1 0-5.6-.7-7 .4-1.4 1.1-1.6 1.7-1.3 2.3.2.6 1.4 1.5 2.3 1.4 1 0 2 .4 2.3.2.4-.2 2-2.2 2.4-.4v.5z"/>
+      <path fill="#f1b617" stroke-width=".0829" d="M517.8 75.6s1-4.5 2.5-6.5c0 0 2-.5 2.8 0 .7.5-.1-.6.7.4.9 1 .9 5 .9 5l1 1c-2.7 1.3-7.9.1-7.9.1z"/>
+      <path stroke-width=".0829" d="M525.5 75.4c-2.5 1.4-7.7.3-7.7.3s-.8 2 0 1.7c.8-.3.4.7 1.3 0 .8-.7.8-1 .8-1s4.9 0 5.8-.3z"/>
+      <path fill="none" stroke-width=".0829" d="M520.9 69.8h.7m-.7.5.7.1m-.8.5.8.1m-.8.5h.8m-.8.5.7.1m-.7.5h.7m-.8.6h.8m-.8.5h.8m-.8.6h.8m-.8.6h.7m-.7.5h.7M522.4 70c.4 0 .7-.2.8-.4m-.8 1 1-.5m-1 1c.4 0 .8-.2 1.1-.5m-1.2 1c.5 0 1-.2 1.3-.5m-1.3 1c.5 0 1-.2 1.5-.5m-1.6 1.1c.5 0 1.1-.3 1.7-.6m-1.7 1.2c.5-.1 1.2-.3 1.8-.7m-1.9 1.2a6 6 0 0 0 2-.7m-2 1.3a7 7 0 0 0 2.2-.8m-2.2 1.3c.6-.1 1.4-.4 2.3-.8m-2.4 1.4c.7-.2 1.6-.4 2.6-1"/>
+      <path fill="#d21034" stroke-width=".0829" d="m520.6 67.4-1.7 1.6m.6-1.7-1.1 1.6m0-1.6-.5 1.6m-.6-1.6v1.5m-1-1.6.5 1.5m-1.7-1.5 1.2 1.5M515.8 67.3l.7 1.4"/>
+    </g>
+    <use xlink:href="#reuse-82" stroke-width=".1"/>
+  </g>
+  <path fill="#f1b517" stroke="#000" stroke-width=".3" d="M495.6 5.5s1.6 55 .3 75.6m-.3-75.6c-2-.3-5.3 0-5.3 0s-1.7 55-.4 75.6c0 0 3.7-.4 6 0" transform="matrix(1.627 0 0 1.557 -301.8 235.5)"/>
+  <path d="M1862.3 30.3a283.8 283.8 0 0 0-9.7.3v1c5.6-.3 12.7-.4 20.7 0v-1l-11-.3zm0 7.3a301.7 301.7 0 0 0-9.9.2v1c5.6-.2 13-.3 21 0v-1l-11.2-.2zm-.2 7.3a324.2 324.2 0 0 0-9.8.2v1c5.6-.2 13-.3 21.4 0v-1l-11.6-.2zm0 7.3a354.2 354.2 0 0 0-10 .1v1c5.7-.1 13.2-.2 21.8 0v-1a341 341 0 0 0-11.9-.1zm-4.2 7.3-6 .1v1a376 376 0 0 1 22.1 0v-1c-5.9-.1-11.4-.2-16-.1zm0 7.3h-6.2v1c5.9 0 13.7-.1 22.5.2v-1c-6-.2-11.6-.3-16.4-.2zm-.2 7.2-6.1.1v1c5.8 0 13.8-.1 22.8.1v-1l-16.7-.2zm0 7.3h-6.3v1c6 0 14 0 23.1.2v-1c-6.2-.2-12-.2-16.9-.2zm-.2 7.3h-6.3v1c6 0 14.2 0 23.5.2v-1a613 613 0 0 0-17.2-.2zm0 7.3h-6.4v1c6 0 14.3 0 23.7.2v-1a731 731 0 0 0-17.4-.2zm-.2 7.2h-6.4v1c6.1 0 14.5 0 24 .3v-1l-17.6-.3zm0 7.3h-6.5v1c6.1 0 14.2 0 24.3.2v-1l-17.9-.2zm-6.6 7.3v1c6.1 0 14.3 0 24.5.2v-1a1680 1680 0 0 0-24.5-.2zm-.1 7.2v1l24.8.3v-1l-24.8-.3zm-.2 7.3v1l25 .3v-1l-25-.3zm0 7.2v1l25.2.3v-1c-12.3 0-19.2-.2-25.3-.3zm-.2 7.3v1l25.5.3v-1c-10.7 0-19.2-.2-25.5-.3zm0 7.2v1c6.2.2 14.8.3 25.6.4v-1c-10.8 0-19.4-.2-25.7-.4zm-.1 7.3v1c6.2.2 15.3.3 25.7.3v-1c-10.4 0-19.5-.1-25.7-.3zm-.1 7.3v1c6.3.2 15.4.3 26 .3v-1c-10.6 0-19.8-.1-26-.3zm0 7.2v1c6.2.2 15.4.4 26 .3v-1a579 579 0 0 1-26-.3zm-.1 7.3v1c6.3.2 15.4.5 26.1.3v-1c-10.7.2-19.8 0-26.1-.3zm0 7.2v1c6.2.3 15.4.6 26.2.4v-1c-10.8.2-20 0-26.3-.4zm-.1 7.3v1c6.3.3 15.5.6 26.3.3v-1c-10.8.3-20 0-26.3-.3zm0 7.2v1c6.3.4 15.5.7 26.3.4v-1c-10.8.3-20 0-26.3-.4zm0 7.3v1c6.3.4 15.5.7 26.3.3v-1c-10.9.4-20 0-26.4-.3zm0 7.3v1c6.3.4 15.4.7 26.3.3v-1c-10.9.4-20 0-26.3-.3zm0 7.2v1c6.3.4 15.4.8 26.3.4v-1c-10.9.4-20 0-26.3-.4zm0 7.3v1c6.3.4 15.4.8 26.3.3v-1c-10.9.5-20 .1-26.3-.3zm0 7.3v1c6.4.4 15.4.8 26.2.3v-1c-10.8.5-19.9.1-26.1-.3zm.1 7.2v1c6.3.5 15.3.9 26 .3v-1c-10.7.6-19.7.2-26-.3zm.1 7.3v1c6.3.5 15.2.9 25.9.3v-1c-10.8.6-19.7.2-25.9-.3zm.1 7.3v1c6.3.5 15 .9 25.6.2v-1a179 179 0 0 1-25.6-.2zm.2 7.3v1c6.2.5 14.8.8 25.3.2v-1c-10.5.7-19.2.3-25.3-.2zm.2 7.2v1c6.1.6 14.6 1 24.9.3v-1c-10.3.6-18.8.3-25-.3zm.2 7.3v1c6 .6 14.4 1 24.4.2v-1c-10 .7-18.4.4-24.4-.2zm.3 7.3v1c6 .6 14.1.9 23.8.2l.1-1c-9.8.7-18 .4-23.9-.2zm.3 7.3.1 1c5.8.6 13.7.9 23.1.2v-1c-9.4.7-17.3.4-23.2-.2z" color="#000" font-family="sans-serif" font-weight="400" overflow="visible" transform="matrix(.43 0 0 .412 -301.8 235.5)"/>
+  <path fill="none" stroke="#000" stroke-width=".6" d="m493.1 79 1.2.2m-1.2-2h1.3m-1.3-2 1.3.1m-1.3-2 1.3.1m-1.3-2 1.3.1m-1.3-2h1.4m-1.4-2 1.4.2m-1.4-2h1.4m-1.4-2 1.4.1m-1.4-2 1.5.1m-1.5-2h1.5M493 58h1.5m-1.4-1.9h1.4m-1.4-2 1.5.1m-1.5-2 1.5.1m-1.5-2 1.5.1m-1.5-2h1.5m-1.5-1.9h1.6m-1.7-1.9h1.6m-1.6-1.9h1.6m-1.6-1.9h1.6m-1.7-2h1.7M493 37h1.7m-1.8-2h1.7m-1.7-1.9h1.7m-1.8-1.9h1.8m-1.8-1.9h1.8m-1.8-1.9h1.8m-1.9-2h1.8m-1.8-1.8h1.8m-1.9-2h1.9m-2-1.8 2-.1m-2-1.9h2m-2-1.9h2m-2-1.9h2m-2-1.9h1.9m-2-2h2m-2-1.8 2-.1" transform="matrix(1.627 0 0 1.557 -299.9 234.3)"/>
+  <path fill="none" stroke="#000" stroke-width=".6" d="m493.7 79 1.3.2m-1.3-2h1.3m-1.3-2 1.2.1m-1.3-2 1.3.1m-1.3-2h1.3m-1.4-2 1.4.2m-1.4-2h1.4m-1.4-2 1.3.1m-1.4-2h1.4m-1.4-2 1.4.2m-1.4-2h1.4m-1.5-2 1.5.1m-1.5-2h1.5m-1.6-1.9h1.5m-1.5-1.9h1.5m-1.5-2 1.5.1m-1.5-2h1.5m-1.5-1.9h1.6m-1.6-1.9h1.6m-1.5-1.9h1.6m-1.6-2h1.6m-1.6-1.8h1.7m-1.7-2h1.7m-1.6-1.9h1.7m-1.7-1.9h1.7m-1.7-2h1.8m-1.7-1.8h1.8m-1.8-2h1.8m-1.8-1.9h1.9m-1.8-1.9h1.8m-1.8-2h1.9m-1.9-1.8h2m-2-2h2m-1.9-1.9h2m-2-1.9h2m-2-1.9h2m-1.9-2h2m-2-1.8 2-.1" transform="matrix(1.627 0 0 1.557 -307.5 234.4)"/>
+  <path fill="#fff" stroke="#000" stroke-width=".3" d="m453.6 111.7-1.8 8c12 5.5 45.8 5.8 48.9 5.8h.6c3.1 0 38-.3 50-5.8l-1.9-8s-1.5 5.1-48.4 6c-47-.9-47.4-6-47.4-6z" transform="matrix(1.475 0 0 1.436 -240.6 251.7)"/>
+  <g stroke="#000" stroke-width=".3">
+    <use xlink:href="#reuse-0" transform="matrix(-1.6 0 0 1.557 1286.2 235.5)"/>
+    <use xlink:href="#reuse-2" transform="matrix(-1.6 0 0 1.557 1286.2 235.5)"/>
+    <use xlink:href="#reuse-1" transform="matrix(-1.6 0 0 1.557 1286.2 235.5)"/>
+  </g>
+  <g stroke="#000" stroke-width=".1">
+    <path fill="#f1b517" stroke-linecap="round" d="M459.2 168H477v16.5h-17.7z" transform="matrix(1.6 0 0 1.557 -248.6 106.4)"/>
+    <path fill="#d21034" stroke-linecap="round" d="M468 183.9c1.1 0 2.2 0 3.3-.2m-3.3-.7c1.1 0 2.2 0 3.3-.2m-3.3-.7 3.3-.1m-3.3-.8 3.3-.1m-3.3-.8 3.3-.1m-3.3-.7 3.3-.2m-3.3-.7c1.1 0 2.2 0 3.3-.2m-3.3-.7c1.1 0 2.2 0 3.3-.2m-3.3-.7c1.1 0 2.2 0 3.3-.2m-3.3-.7 3.3-.1m-3.3-.8 3.3-.1m-3.3-.8 3.3-.1m-3.3-.7 3.3-.2m-3.3-.7c1.1 0 2.2 0 3.3-.2m-3.3-.7c1.1 0 2.2 0 3.3-.2" transform="matrix(1.6 0 0 1.557 -248.6 106.4)"/>
+    <path fill="#fff" stroke-linecap="round" d="M476.8 182.3c-.7.4-1.6.8-2.7 1m2.7-1.8c-.7.3-1.6.7-2.7 1m2.7-2c-.7.4-1.6.8-2.7 1m2.7-1.8c-.7.3-1.6.7-2.7 1m2.7-2c-.7.5-1.6.8-2.7 1m2.7-1.8c-.7.4-1.6.7-2.7 1m2.7-2c-.7.5-1.6.8-2.7 1m2.7-1.8c-.7.4-1.6.7-2.7 1m2.7-2c-.7.5-1.6.8-2.7 1m2.7-1.8c-.7.4-1.6.7-2.7 1m2.7-1.9c-.7.4-1.6.7-2.7 1m2.7-1.9c-.7.4-1.6.7-2.7 1m2.7-1.9c-.7.4-1.6.7-2.7 1m2.7-1.9c-.7.4-1.6.7-2.7 1m2.7-1.9c-.7.4-1.6.7-2.7 1" transform="matrix(1.6 0 0 1.557 -248.6 106.4)"/>
+    <path fill="none" stroke-linecap="round" d="M463.9 171.2c-1.7-.2-3.1-.5-4.1-1m4 2c-1.6-.3-3-.7-4-1.1m4 2c-1.6-.3-3-.7-4-1.1m4 2c-1.6-.3-3-.7-4-1.1m4 1.9c-1.6-.2-3-.6-4-1m4 1.9c-1.6-.2-3-.6-4-1m4 1.9c-1.6-.2-3-.6-4-1m4 1.9c-1.6-.2-3-.6-4-1m4 1.9c-1.6-.3-3-.6-4-1m4 1.9c-1.6-.3-3-.6-4-1m4 1.9c-1.6-.3-3-.6-4-1m4 1.8c-1.6-.2-3-.5-4-1m4 2c-1.6-.3-3-.7-4-1.1m4 2c-1.6-.3-3-.7-4-1.1m4 2c-1.6-.3-3-.7-4-1.1" transform="matrix(1.6 0 0 1.557 -248.6 106.4)"/>
+    <path fill="#d21034" stroke-linecap="round" d="M468 163.1a9 2.4 0 0 0-9.1 2.4 9 2.4 0 0 0 .1.4v2.2a9 2.4 0 0 0-.1.4 9 2.4 0 0 0 .1.4v.5h.5a9 2.4 0 0 0 8.5 1.5 9 2.4 0 0 0 8.4-1.5h.6v-.6a9 2.4 0 0 0 0-.3 9 2.4 0 0 0 0-.2v-2.6a9 2.4 0 0 0 0-.2 9 2.4 0 0 0-9-2.4zm0 1.6a9 2.4 0 0 1 .5 0 9 2.4 0 0 1 .5 0 9 2.4 0 0 1 .4 0 9 2.4 0 0 1 .5 0 9 2.4 0 0 1 .4 0 9 2.4 0 0 1 .4.1 9 2.4 0 0 1 .5 0 9 2.4 0 0 1 .4.1 9 2.4 0 0 1 .4 0 9 2.4 0 0 1 .4.1 9 2.4 0 0 1 .4 0 9 2.4 0 0 1 .3.1 9 2.4 0 0 1 .4.1 9 2.4 0 0 1 .3 0h0a9 2.4 0 0 1 2.7 1 9 2.4 0 0 1-8.5 1.6 9 2.4 0 0 1-8.6-1.5 9 2.4 0 0 1 6.8-1.5 9 2.4 0 0 1 .9 0 9 2.4 0 0 1 .9 0z" transform="matrix(1.6 0 0 1.557 -248.6 106.4)"/>
+    <path fill="#fff" stroke-linecap="round" d="M468 164.7a9 2.4 0 0 0-8.6 1.6 9 2.4 0 0 0 8.6 1.5 9 2.4 0 0 0 8.5-1.5 9 2.4 0 0 0-8.5-1.6z" transform="matrix(1.6 0 0 1.557 -248.6 106.4)"/>
+    <path fill="#fff" stroke-linecap="round" d="M467.8 163.1a9 2.4 0 0 0-.8 0v1.6a9 2.4 0 0 1 .8 0zm5 .4v1.6a9 2.4 0 0 1 .7.1v-1.6a9 2.4 0 0 0-.8-.1zm-10.1 0a9 2.4 0 0 0-.8.2v1.6a9 2.4 0 0 1 .8-.1zM473.7 167.3a9 2.4 0 0 1-.9.2v3a9 2.4 0 0 0 .9-.1zm-8.4.4v3a9 2.4 0 0 0 .9.2v-3.1a9 2.4 0 0 1-.9 0z" transform="matrix(1.6 0 0 1.557 -248.6 106.4)"/>
+    <path fill="#d21034" stroke-linecap="round" d="M477 183a9.7 2.4 0 0 1-1.4.5 9 2.4 0 0 1-7.6 1.1 9 2.4 0 0 1-7.7-1 9.7 2.4 0 0 1-1.3-.6v2a9 2.4 0 0 0-.1.3 9 2.4 0 0 0 .1.4v.5h.5a9 2.4 0 0 0 8.5 1.5 9 2.4 0 0 0 8.4-1.5h.6v-.6a9 2.4 0 0 0 0-.3 9 2.4 0 0 0 0-.2z" transform="matrix(1.6 0 0 1.557 -248.6 106.4)"/>
+    <path fill="#d21034" d="M459.2 169.6v2.6l3.3 12a9 2.4 0 0 0 .7 0z" color="#000" font-family="sans-serif" font-weight="400" overflow="visible" transform="matrix(1.6 0 0 1.557 -248.6 106.4)"/>
+    <path fill="#d21034" d="m465.4 170.8-2.9 13.3a9 2.4 0 0 0 .7.2l2.9-13.5a9 2.4 0 0 1-.7 0zM473.4 170.4a9 2.4 0 0 1-.7.1l-3.5 14a9 2.4 0 0 0 .7 0z" color="#000" font-family="sans-serif" font-weight="400" overflow="visible" transform="matrix(1.6 0 0 1.557 -248.6 106.4)"/>
+    <path fill="#d21034" d="m465.4 170.8 3.5 13.8a9 2.4 0 0 0 .8 0l-3.6-13.8a9 2.4 0 0 1-.7 0z" color="#000" font-family="sans-serif" font-weight="400" overflow="visible" transform="matrix(1.6 0 0 1.557 -248.6 106.4)"/>
+    <path fill="#d21034" stroke-linecap="round" d="M473.6 170.4a9 2.4 0 0 1-.7.1l3.6 12.4.4-.1v-.9z" transform="matrix(1.6 0 0 1.557 -248.6 106.4)"/>
+    <path fill="#fff" stroke-linecap="round" d="M477 183a9.7 2.4 0 0 1-.8.3v3a9 2.4 0 0 0 .2-.1h.6zm-14.6 1.1v3a9 2.4 0 0 0 .8.2v-3a9 2.4 0 0 1-.8-.2zm7.3.5a9 2.4 0 0 1-.8 0v3a9 2.4 0 0 0 .8 0z" transform="matrix(1.6 0 0 1.557 -248.6 106.4)"/>
+  </g>
+  <path fill="none" stroke="#000" stroke-width=".3" d="M494 4.6h1.6m-1.6-.9h1.5m-1.6-.9h1.6m-1.6-.9h1.5m-1.6-.9h1.6m-1.6-.8h1.6m-1.6-1h1.5m-1.6-.8h1.6m-1.6-1h1.6m-1.6-.8h1.5m-1.6-1h1.6m-1.6-.8h1.5m-1.6-.9h1.6m-1.6-.9h1.6m-1.6-.9h1.5m-1.6-.9h1.6m-1.6-.9h1.5m-1.6-.9h1.6m-1.6-.9h1.6m-1.6-.8h1.5m-1.6-1h1.6m-1.6-.8h1.6m-1.7-1h1.6m-1.6-.8h1.6" transform="matrix(1.6 0 0 1.557 -288.5 235.5)"/>
+  <g fill="#016a16" stroke="#000">
+    <path stroke-width=".3" d="M852.9-341.3c-14.8-2-19.5-.5-20.2-.3-.6.3-10.2 2.9-13.9 9.2-3.7 6.3-.8 8.6-.8 8.6-.7-1.4 1.7-6.7 1.7-6.7-1.2 2.2.4 5.9.4 5.9-.5-1.1.6-4.4.6-4.4l.8 2.6c0-1.5.8-5.2.8-5.2 0 4.8 1 5.6 1 5.6-.8-1.2.6-8.5.6-8.5-.8 4.4.5 5.3.5 5.3 0-5 2.5-7.7 2.5-7.7-2.7 3-.8 7.3-.8 7.3.3-5 4-9 4-9-3.5 3.8-1.4 6.4-1.4 6.4.1-3.3 5.7-8 5.7-8-2.4 2.3-2.3 5.1-2.3 5.1.9-1.7 4.5-5.2 4.5-5.2-.9 1.2-1.7 4.3-1.7 4.3l1.2-.7 3-3.7-1.9 2.9 2-.9 2-2-.9 1.4 1.5-.5 1.6-1.8-1 1.3h2.2l1-1-.5 1.1h1.7l.5-.8-.1.9h.7l.7-1.4-.2 1.4s1.8 0 2.1.4c.3.4-10.9 3.5-10.9 3.5s2.5 0 2.7.7c.1.7-5.7 1.6-5.7 1.6l2.9 1.2-5.7.7 4.1.6-7 1.7h6.4l-6.8 1.3 4.4.6-5.7.9 5.4.5-5.9 2.4 3.2-.5c-6.2 6-4 10.2-4 10.2.4-1.9 3.2-6.2 3.2-6.2-.7 5.5.9 7.5.9 7.5.1-1.5 2.1-9.4 2.1-9.4.3 1.8.5 7 .5 7 1.5-1.3.9-7.2.9-7.2l2.3 2.2c-1.2-1.9-.9-6.2-.9-6.2.7.8 1.5 3.7 1.5 3.7l.8-5.7a21 21 0 0 0 1.4 5.3l.5-6c0 1.5 1.7 4.4 1.7 4.4v-6.5l1 3 .2-4.6.5 5.3 1-1.1-.8-.1.4-.2.9-5.1 1.4 2.3.5-1.5-.3-2.5c.5.2 1.3 1.7 1.3 1.7v-3.1l1.3.6 2-3-1.2 2.4 2-1.2-2.3 1.8 1.4.6-3.2.3v.9l2.9.2c-4.1.7-4.2 1.9-4.2 1.9l4-.2c-3.1 0-5.4 2.2-5.4 2.2l4.7-.2c-4.3.3-6.1 2-6.1 2l5.4.4c-2.7-.3-5.7 2.7-5.7 2.7h3.6c-3.3.4-4 2.3-4 2.3h2.8c-3 1.8-3.1 4.6-3.1 4.6l3.3-2.6c-3.5 3-2.3 5.6-2.3 5.6l2.1-2.4c-3 2.8-2.3 4.9-2.3 4.9l2.2-2.4c-1 7.2.5 7.4.5 7.4l.5-7.3c1.8 1 3 5.2 3 5.2l-1.6-6.7c1.8 1.2 2.3 3.9 2.3 3.9.7-3-2.1-7-2.1-7l3.5 4.3-2.7-6.7 3.1 4.6c0-4.3-2.4-7-2.4-7l3.8 3.2c-.2-1.4-2.2-5-2.2-5 .8.7 2.2 2.4 2.2 2.4-.5-2-2.6-4.5-2.6-4.5 1 .2 2.7 2.3 2.7 2.3 0-1.2-1.2-5.6-1.2-5.6l1.3 2.7-.5-4.4 1.1 1.7-.2-3 .7.1.5-3.6-.2 3.7-.9-.3.3 3 2.6-3-1.5 5.2 2.6-2.4-2.1 4.5 3-3.6-2.2 5.9 2.4-2.1-2.3 4.2c1.3 0 3.9-2.8 3.9-2.8-1.3.8-3.2 5.4-3.2 5.4 1.6 0 2.7-2.9 2.7-2.9l-2.6 4.9c1.6-.5 3.4-3.6 3.4-3.6.3 1.7-2.8 7.2-2.8 7.2 1 0 2.6-1.3 2.6-1.3s.3-1.1-.8 1a24 24 0 0 1-3.7 4.4c2.2.1 4.4-2.9 4.4-2.9.3 1.4-2.7 6.7-2.7 6.7 2.1-.1 4-6 4-6 .6.7 1 7.6 1.2 6.7.2-.8 0-9.3 0-9.3.5.6 2.2 4.5 2.2 4.5.2-2-1.9-9.3-1.9-9.3l2.5 4.5-3-8.5 3.6 4.3-4.4-8.6 2.2 3.4c-.7-5.8-4.5-5.8-4.5-5.8 4.5-.7 5 5 5 5 1-.2.8-3.1.8-3.1l.3 1.3.7 4.9.5-4.2v5.2c0 .5 1.5-3 1.5-3 .4.6.4 4.9.4 4.9l1.3-3.4c.7 2 .2 5.4.2 5.4 1.3 0 1.7-3 1.7-3l1.5 4.4-.1-3.3c-.1-3.3-4.6-9.8-5.7-10.4-1.2-.6-5.6-2-5.6-2l-4.2-4 4.2 4c.5-.6-.5-3.8-.5-3.8l3.3 4.3c.8-1.5-.8-4-.8-4 1 1 4 5.3 4 5.3.3-1.6-.8-5-.8-5 .9 1 4 6.1 4 6.1 0-.5-1.8-5.7-1.8-5.7 2.1 1.9 4.3 8 4.3 8 .6-2-1-7.4-1-7.4l3.7 8.8c.4-1.8-.2-5.3-.2-5.3 1.1 1 3 5.5 3 5.5-.2-2.6-1-6-1-6l3.3 6.2-.6-4.1 2 4.4-1-3.9 2.8 4-2.3-4.2 3.3 3.2s-4.8-5.9-5.8-6.8c-1-.9-10-4.2-12-5.2s-11-.5-11-.5l2.7-.1-.5-1.2.5 1h1.8l-1-1 .7 1.2h3l-2-1.8c1 .5 2 1.7 2 1.7h1.6l-1-2 1.5 2.3 2.5.5c-.4-1.1-1.9-2.9-1.9-2.9 1 1 2.3 3 2.3 3l2.2.8c0-1.1-1.8-3.6-1.8-3.6a14 14 0 0 1 2.8 3.9c0-1-.8-4-.8-4 1 .6 2.7 4.5 2.7 4.5 0-1.1-.2-4.6-.4-4.4.7.8 2.4 5.4 2.4 5.4v-4.4c.5 0 1.9 4.8 1.9 4.8.8-1.8-.1-5.5-.1-5.5a74 74 0 0 1 2 5.4l.2-1.8.4 3.3.4-2.8 1.1 3c0-1.7-1.5-6.6-1.5-6.6 1 1 3.7 7 3.7 7v-2.1l.8 3.4c1.1-3.4-1.3-7.2-1.3-7.2 1.8 2.5 2.4 5.8 2.4 5.8l.8-1.8c.7 1.3.7 4.6.7 4.6 1-3.6-1-6.7-1-6.7 2.2 1.6 3.4 8.3 3.4 8.3l.4-5.2c.6 1.3 1.8 5.2 1.8 5.2.3-2.2-.6-5.9-1.8-7.5-1.2-1.6-2.2-3.3-9.8-4.9-7.7-1.6-26.1-.2-26.1-.2l3-.7c1.8-1.5 6.2-.2 6.2-.2h1.1l-.2-1.7c0-.4 2 1.5 2 1.5h.8v-2.1l3.2 2.4 1.1.1-2-2.7c1.1 1.1 4.6 2.5 4.6 2.5-.2-1-2.8-3-2.8-3 .8 0 4.4 3.2 4.4 3.2l-2.1-2.5 5.1 2.4c-.3-.6-2-2.4-2-2.4 2 1.8 6.1 3 6.1 3l-4.9-4 6.2 4.8c-1-3-4-5.7-4-5.7 1.5.3 7.2 6 7.2 6 0-2.3-2.1-5-2.1-5 1.5.5 5.3 5.7 5.3 5.7.1-1.3-2-5-2-5 1.1.6 4.2 5.1 4.2 5.1.7-2.6-2.2-5-2.2-5l5.9 3.3c-3-4.6-9.3-6.1-10-6.4-.8-.3-6.3-.3-11-.1-4.8.1-10.8 2.9-11.1 3l-5.2 1.5-1.3-.5 1.7.4 2.3-.7-2.3-1.4 3 1.2 1.5-.6-2.2-1.3 2.4 1 3.5-1.3-4-1.5h6.3l-4.8-1.7 7.9 1.4c-.7-.9-3-1.6-3-1.6 1.7 0 5.3.8 5.3.8-.7-.8-3.8-2.2-3.8-2.2 1.7.3 6.3 1.7 6.3 1.7l-3.4-2.3 3.3 1.2c-.6-1-2.4-1.9-2.4-1.9.7 0 6.2 2.7 6.2 2.7-1.2-2-3.8-4.7-3.8-4.7l3.3 2.1-2-2.2 5.1 2.4a12.3 12.3 0 0 0-6.7-4c-1.1-.2-9.2.8-15.5 5.3-6.4 4.5-7.1 8.7-7.1 8.7s-6.5-14.1-17.9-15c0 0 1.8 1.7 5.3 2.5 0 0-3.8.8-4.8 2.2 0 0 4.3-.3 7 .4 0 0-4.5 1-5.2 2.1 0 0 4.8-.5 7.4 0 0 0-4.3.5-4.5 1.6 0 0 6.7 0 7 1.2 0 0-4.6-.1-5.8.6 0 0 6 .9 7.2 1.7l-3.7.6s4.8 1 5.4 2.4c0 0-10.7-4.7-19.5-5.6-8.7-1-11.3 1.4-12.9 2.6-1.5 1.3-5 4.6-4.4 7.3 0 0 1.9-3.6 6.4-6.5l-4 5 4.5-3.8s-2.8 3.8-2.8 5c0 0 4.3-7 6.2-8.2 0 0-3.1 4-3 5.5 0 0 6-6 6.6-5.9 0 0-4.6 4.2-4.5 6.9 0 0 5.2-5.6 6.8-6.1 0 0-4 2.3-3.2 4.2l4.3-4-2.6 4.3 1.3-.4s1.9-3.6 4.5-3.5l-3.5 3.3 1.8-.2s2-2.5 4.5-3.4c0 0-3.6 3-3.7 3.4l1 .1s2.2-2.2 3.8-2.6l-1.5 2.4h.7l2-2-1.4 2 1.9.1 1.4-1.2-1.1 1.4h1.3l.9-.7-.1.9h2.2l.6-1.1-.1 1z" transform="matrix(1.6 0 0 1.557 -868.6 730.6)"/>
+    <path d="m3187.5-1289.8-5.8 6.8-.6.1v.8s-22.5 8.4-39.2 22.8c-16.7 14.5-27 30.5-28.9 38.2-2 7.7-2.2 29.3-2.2 29.3s3.2-18 5-20.6c0 0 0 11.2 1.7 13.8 0 0 1.3-19.6 2-22.5.6-2.9.6 16.1 4.1 17.7 0 0-1-20.2 1.6-26.7 0 0-1 11 1 13.9 0 0 2.9-25.4 9.6-32.2 0 0-8 13.2-2.9 31.8l1.6-7-2.2.3 2.3-1 2.2-10 3.2 7.7 1.3-.5.8-6.7-8.2-.7 9.8-1.5.1-3.3-4.8-.7 4.9-1 .1-4.1h-3.7l3.7-1 .1-3.5.5 3.4 5.2-1.2.8-3.5.7 3.1.4-.1 1-5.5h-1.2l1.2-.2.8-5 .6 4.8 2.5-.4 1.4-7 1.6 6.4s4.1-13.8 7.3-15.4l.3 8.4 1.5-.3 7-12-.2 4 2.7-.8 2.9-6.7 1.9 5.2 3.2-3.9 1.5 2.7c12.2-3.5 27.6-8.1 26.8-9.1-1.3-1.6-8-1.6-8-1.6l1-5.2-2.7 5.2h-2.8l.3-3.6-2 3.6-6-.3 1.5-3.9-3.5 3.5h-8.3zm-12 20.3-.2 5.4 2.2-5.2-2-.2zm-21.3 16.3.6 4.6.7-.2.8-4zm-9.5 8 .5 4 3.5-.7.7-3.2zm.7 6 .4 2.9 1.8-.3.4-2.2zm-3 5.5 1.1 4.3.1-4.2zm3.7.3.3 2.4.5-2.3zm-5.1 8.7h-.2l.1.4z" transform="matrix(.423 0 0 .412 -868.6 730.6)"/>
+  </g>
+  <path fill="#f1b517" stroke="#000" stroke-width=".3" d="m503-51.5-.8 11.1c.9 1.5 1.3 2.5 1.3 2.5s.2-.8 1-2.2l-.4-11-1.1-.4zm1.5 14.4h-.4l.4.2z" transform="matrix(1.475 0 0 1.436 -240.6 251.7)"/>
+  <path fill="#fff" stroke="#000" stroke-width=".3" d="M602.7 231.4s3.5-2.4 5.6-.1l-.7 1.7-3.5.3z" transform="matrix(1.604 0 0 1.293 -517.3 43.9)"/>
+  <path fill="green" stroke="#000" stroke-width=".2" d="M605.2 226.1v6.6h.7v-6.6z" color="#000" font-family="sans-serif" font-weight="400" overflow="visible" transform="matrix(1.604 0 0 1.293 -517.3 43.9)"/>
+  <path fill="green" stroke="#000" stroke-width=".3" d="M602.8 233.6s.7.3.6 1.6c-.1 1.3-.4 5.9 2.3 5.9 2.7 0 2.3-4.5 2.3-5.2l.2-2v-2.6s-2.7 2.4-5.4 0z" transform="matrix(1.604 0 0 1.293 -517.3 43.9)"/>
+  <path fill="#fff" d="M2287.2 886.6s-.8 6-.8 12.1c0 3 .2 6 .8 8.4a8 8 0 0 0 1.5 3.1l.5.5c.9 0 1.7-.1 2.3-.4v-1c-.5 0-.7-.1-1-.6-.4-.4-.8-1.2-1-2.2-.6-2-.8-4.9-.8-7.8 0-5.8.8-11.8.8-11.8z" color="#000" font-family="sans-serif" font-weight="400" overflow="visible" transform="matrix(.424 0 0 .342 -517.3 43.9)"/>
+  <path fill="#fff" stroke="#000" stroke-width=".6" d="M2298.7 881.6c-9.2 3.6-16 2.4-20.3.4v.8s1.3.6 1.9 2.6c8.5 5 15.2 1 18.5-2z" transform="matrix(.424 0 0 .342 -517.3 43.9)"/>
+  <g stroke-width=".4" aria-label="L'UNION FAIT LA FORCE" font-family="Helvetica" font-size="6.7" font-weight="400" letter-spacing="0" style="line-height:1.25" word-spacing="0">
+    <path d="m455.6 144.3-.6-.2-.9 4.8 3 .6.2-.6-2.5-.5zM458.2 146.5h.5l.2-1.7h-.5zM462.8 145.4l-.4 3q0 .4-.2.7l-.3.3q-.4.2-1 .2l-.3-.2-.4-.2-.2-.5v-.6l.4-3-.7-.1-.4 3.2q-.1.7.3 1.2.3.6 1.3.7 1 .2 1.5-.3.6-.4.7-1.2l.4-3.1zM467.2 149.8l-2-4.1-.8-.1-.5 4.8h.6l.4-3.8 2 4.1.8.1.5-4.8h-.6zM469.9 146.1h-.7l-.4 4.8h.7zM474.5 149q0 .8-.5 1.3t-1.3.4q-.8 0-1.2-.6-.4-.6-.3-1.4 0-.9.5-1.4.5-.5 1.3-.5t1.2.7q.4.5.3 1.4zm.7 0v-.9l-.4-.8q-.2-.5-.7-.7-.4-.3-1-.3h-.7l-.5.1q-.5.2-.8.6-.3.3-.4.8l-.2.8v.9l.4.8q.2.4.7.7.4.3 1 .3h.7q.3 0 .5-.2l.8-.5.4-.8.2-.8zM479 150.6l-2.2-4h-.8l-.2 4.8h.6l.2-3.9 2.3 4 .7.1.3-4.8h-.7zM483.3 149.6h2.4v-.5l-2.4-.1v-1.5h2.8v-.5l-3.4-.1-.1 4.8h.6zM488.9 150.5l.4 1.4h.7l-1.6-4.8h-.8l-1.9 4.7h.7l.5-1.4zm-1.8-.6.9-2.1.6 2.1zM491.5 147h-.7v5h.6zM492 147.7h1.5l.1 4.2h.7l-.1-4.3h1.6v-.6l-3.9.1zM499 147h-.7l.1 4.8h3.1v-.7l-2.5.1zM504.8 150.2l.5 1.4h.7l-2-4.8h-.7l-1.6 5 .7-.1.5-1.4zm-1.8-.5.7-2.2.8 2.1zM509.1 149.2l2.4-.2v-.6l-2.4.2-.1-1.5 2.6-.2v-.5l-3.3.2.3 4.8h.6zM516.2 148.4q0 .9-.3 1.4-.4.6-1.2.7-.8 0-1.3-.5t-.6-1.3q0-.9.4-1.5.4-.5 1.2-.6.7 0 1.2.4.5.5.6 1.4zm.7 0q0-.5-.2-.9l-.5-.8-.7-.5q-.5-.2-1.2-.2l-.6.1-.5.2-.7.7-.3.9v.8l.2.9q.1.4.4.7.3.4.8.6.5.2 1.1.2.4 0 .6-.2.3 0 .5-.2.5-.3.7-.7l.3-.8v-.9zM518.3 148.5l1.6-.1h.5q.2 0 .3.2l.1.2v.3l.1.6.1.3.1.3h.8v-.2l-.2-.1-.1-.3-.1-.9-.1-.4-.2-.2-.2-.2h-.2l.2-.2.2-.3.1-.3v-.5q0-.7-.6-1h-1l-2.3.2.5 4.8.7-.1zm-.2-2.1 1.6-.2h.6l.2.2.2.5v.4l-.3.3-.3.1-.3.1-1.5.2zM526.2 146.2q-.2-.6-.7-1-.6-.4-1.5-.3-1 .2-1.5 1-.5.7-.4 1.9.2 1.3 1 1.8.7.5 1.5.4l.5-.1.6-.3.5-.7q.2-.4.2-1h-.6l-.1.7-.3.4-.4.3-.4.1q-.8.1-1.3-.4-.4-.5-.5-1.4-.2-1 .2-1.5t1-.6h.9l.4.3.2.5zM531 148.2l-3 .5-.2-1.6 2.6-.4-.1-.6-2.6.5-.3-1.5 2.8-.5-.1-.6-3.5.7 1 4.7 3.4-.6z" transform="matrix(1.6 0 0 1.557 -288.6 193.8)"/>
+  </g>
+</svg>
