@@ -1,0 +1,49 @@
+{
+ "built": "2026-10-06",
+ "n02": "N02-25（2025 年度・国土数値情報 鉄道）",
+ "stations": {
+  "records": 10234,
+  "matched": 10231,
+  "with_article_ja": 10221,
+  "with_article_en": 9832,
+  "article_borrowed": 223,
+  "closed_in_wikidata": 5,
+  "far_over_2km": 4,
+  "unmatched": 3,
+  "how": {
+   "name+pos+line": 9903,
+   "name+pos+line+article": 223,
+   "name+pos": 100,
+   "manual": 5,
+   "-": 3
+  }
+ },
+ "groups": {
+  "total": 9046,
+  "with_article": 9033,
+  "multi_article": 14
+ },
+ "lines": {
+  "total": 597,
+  "matched": 596,
+  "with_article_ja": 578,
+  "with_article_en": 543,
+  "how": {
+   "vote+name": 550,
+   "vote": 44,
+   "manual": 2,
+   "-": 1
+  },
+  "low_share": [
+   "函館市|湯の川線: 6/16",
+   "WILLER　TRAINS|宮津線: 3/19"
+  ]
+ },
+ "operators": {
+  "total": 176,
+  "matched": 175,
+  "unmatched": [
+   "一般財団法人青函トンネル記念館"
+  ]
+ }
+}

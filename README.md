@@ -99,6 +99,19 @@ Read by [www.ortho-earth.com/japan/onsen](https://www.ortho-earth.com/japan/onse
 |---|---|---|
 | `onsen.json` | ~2,000 hot springs and the hot-spring areas they belong to: spring quality, prefecture, coordinates, member inns | Japanese Wikipedia (CC BY-SA 4.0); Wikidata (CC0); estimated coordinates © OpenStreetMap contributors (ODbL) and the GSI address search; member inns from the Japan Association of Secluded Hot Spring Inns (日本秘湯を守る会) |
 
+### Railways
+
+Lines and stations of the MLIT railway data (N02) matched to Wikipedia and Wikidata. Details, counts and the matching method in [`rail/README.md`](japan/rail/README.md) (Japanese).
+
+| File | Contents | Source |
+|---|---|---|
+| `rail/lines.geopbf` | 597 lines (operator × line name), sections joined into one MultiLineString each: Wikidata id, Wikipedia titles (ja/en), length, number of stations, opened/closed | MLIT National Land Numerical Information, Railway (N02-25, FY2025); Wikidata (CC0); Wikipedia titles (CC BY-SA 4.0) |
+| `rail/stations.geopbf` | 10,234 station records (station × line): station and group codes, operator, line, Wikidata id, Wikipedia titles | same |
+| `rail/station-groups.geopbf` | 9,046 stations grouped by transfer (one article each) | same |
+| `rail/stats.json` | counts of the matching (10,231 of 10,234 records matched, 596 of 596 lines) | — |
+
+国土数値情報（鉄道データ）（国土交通省）を加工して作成。
+
 ### Landmarks in 3D
 
 Read by [www.ortho-earth.com/japan/models](https://www.ortho-earth.com/japan/models).
