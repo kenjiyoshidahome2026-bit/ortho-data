@@ -87,9 +87,9 @@ Read by [www.ortho-earth.com/japan/terrain](https://www.ortho-earth.com/japan/te
 |---|---|---|
 | `terrain.json` | ~1,500 landforms: category, representative point, physical quantities, names in Japanese and English | Wikidata (CC0), Wikipedia (CC BY-SA 4.0); the selection follows the annotations of the GSI vector tiles (Geospatial Information Authority of Japan) |
 | `terrain.i18n/<lang>.json` | names of those landforms in 24 more languages | Wikidata (CC0) |
-| `terrain.geopbf` | shapes: lakes, rivers, axes of mountain ranges and trenches, ocean currents, tectonic lines | lakes — MLIT National Land Numerical Information, Lakes (W09); rivers — MLIT National Land Numerical Information, Rivers (W05, **non-commercial terms**); both cut out by name and simplified. The axes, currents and tectonic lines are drawn by hand |
+| `terrain.geopbf` | shapes: lakes, rivers, axes of mountain ranges and trenches, ocean currents, tectonic lines | lakes — MLIT National Land Numerical Information, Lakes (W09), cut out by name and simplified; rivers — © OpenStreetMap contributors (ODbL), the main stem of each river's waterway relation, joined and simplified. The axes, currents and tectonic lines are drawn by hand |
 
-国土数値情報（湖沼データ・河川データ）（国土交通省）を加工して作成。
+国土数値情報（湖沼データ）（国土交通省）を加工して作成。 River lines © [OpenStreetMap](https://www.openstreetmap.org/copyright) contributors, available under the Open Database License.
 
 ### Hot springs
 
@@ -120,6 +120,5 @@ Read by the catalogue of Japanese public GIS data (gishub-jp).
 ### Terms for us/ and japan/
 
 The CC BY-SA 4.0 statement above covers `globe/` only. Files under `us/` and `japan/` are compiled or processed from
-the sources listed, and each keeps the terms of its sources. Note in particular that `japan/terrain.geopbf` contains
-river lines derived from data under non-commercial terms, and `japan/onsen.json` contains coordinates derived from
-OpenStreetMap (ODbL).
+the sources listed, and each keeps the terms of its sources. Note in particular that the river lines in `japan/terrain.geopbf`
+and the estimated coordinates in `japan/onsen.json` are derived from OpenStreetMap and are under the ODbL.
