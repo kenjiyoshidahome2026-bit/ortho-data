@@ -19,7 +19,28 @@ Files are grouped by the extent of the data, not by the app that reads them:
 Names that belong to a database sit next to it (`<DB>.i18n/<lang>.json`) and are published in the same push,
 so a database and its names never drift apart.
 
-## globe/ — the physical-geography globe
+## globe/ — worldwide data
+
+`manifest.json` lists every file under `globe/` with a short content hash (`{ files: { path: sha1[0:12] } }`).
+GitHub Pages has no directory listing, so readers use it to see what changed and which flags exist.
+
+### Countries of the world
+
+Read by [www.ortho-earth.com/world](https://www.ortho-earth.com/world/), the [quiz](https://www.ortho-earth.com/quiz/),
+[Equal Earth](https://www.ortho-earth.com/equal/) and the country and city labels of the globe.
+
+| File | Contents | Source |
+|---|---|---|
+| `NationDB.json` | 262 countries and territories: codes, capital, area, population, GDP, HDI and more | Wikidata (CC0), World Bank, IMF, UNDP |
+| `CityDB.json` · `LanguageDB.json` · `CurrencyDB.json` · `Conflicts.json` | capitals and large cities, languages, currencies, disputed territories | Wikidata (CC0) |
+| `<DB>.i18n/<lang>.json` | names for that database in 25 languages (English is in the database itself) | Wikidata (CC0) |
+| `ne-cities/<lang>.json` | names of the smaller Natural Earth cities | Natural Earth (public domain) |
+| `flags/<key>.svg` | flags, by country key | Wikimedia Commons (public domain or as stated per file) |
+| `geoms/<key>.png` | locator maps, 512 px | drawn from Natural Earth |
+| `sfx.zip` | sound effects of the viewer | OtoLogic (CC BY 4.0) |
+| `search/base.json` · `search/<lang>.json` | place-name search index: 13,154 countries, states, cities and landforms | Natural Earth, Wikidata |
+
+### Landforms of the world
 
 Read by [www.ortho-earth.com/globe/physical](https://www.ortho-earth.com/globe/physical).
 
