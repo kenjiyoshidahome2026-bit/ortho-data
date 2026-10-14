@@ -56,6 +56,19 @@ Read by [www.ortho-earth.com/globe/physical](https://www.ortho-earth.com/globe/p
 | `plates.geopbf` | plate boundaries and plates | PB2002 — Bird (2003), *An updated digital model of plate boundaries* |
 | `climate-koppen.geopbf` | Köppen–Geiger climate classes, 1991–2020 | Beck et al. (2023), CC BY 4.0 |
 
+### World population in hexagons
+
+Read by [www.ortho-earth.com/globe/hex](https://www.ortho-earth.com/globe/hex).
+
+| File | Contents | Source |
+|---|---|---|
+| `h3/kontur-20231101/r4.h3p.gz` | population of every inhabited H3 cell at resolution 4 (71,283 cells, edge ≈ 26 km) | [Kontur Population](https://data.humdata.org/dataset/kontur-population-dataset) 2023-11-01 (CC BY 4.0) |
+| `h3/kontur-20231101/r6/<parent>.h3p.gz` · `r6/index.json` | resolution 6 (2,016,971 cells, edge ≈ 3.7 km), one file per resolution-1 parent | same |
+| `h3/kontur-20231101/meta.json` | source, license, version, counts | |
+
+`.h3p.gz` is gzip of a small binary of cell id and population (format: `apps/ortho-globe/hex-pop.js` in ortho-earth).
+Pages does not compress binary files, so they are stored compressed; readers gunzip them.
+
 Compiled data under `globe/`: CC BY-SA 4.0. Each source keeps its own terms as listed above.
 
 ## us/ — data for the United States
