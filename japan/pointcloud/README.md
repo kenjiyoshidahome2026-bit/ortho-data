@@ -17,14 +17,14 @@
 
 ### 変換
 
-PDAL 2.10.2（PROJ 9.9.0）で EPSG:6676 を与えて COPC 化：
+PDAL 2.10.2（PROJ 9.9.0）で EPSG:6676+6695（平面直角 VIII 系＋JGD2011 の標高）を与えて COPC 化：
 
 ```
-pdal translate 08NF2392.las atami-08NF2392.copc.laz --writer writers.copc --readers.las.spatialreference="EPSG:6676"
+pdal translate 08NF2392.las atami-08NF2392.copc.laz --writer writers.copc --readers.las.spatialreference="EPSG:6676+6695"
 ```
 
-- 結果：COPC（LAS 1.4・点の形式 7）・9,510,494 点・scale 0.01・77,290,637 B
-- WKT（VLR 2112）＝EPSG 6676。PROJ 9.9 の EPSG 辞書では名前が「JGD2024 / Japan Plane Rectangular CS VIII」（基準 6668・パラメータは JGD2011 と同じ）
-- sha256：e8e1cba8f44905a4b68b52628ed733ebc55f07a102aeb309ad0714a1a0e4e6c2
+- 結果：COPC（LAS 1.4・点の形式 7）・9,510,494 点・scale 0.01・77,349,826 B
+- WKT（VLR 2112）＝COMPD_CS（EPSG 6676＋VERT_CS EPSG 6695「JGD2011 (vertical) height」）＝高さは標高（T.P.）で楕円体高ではない。PROJ 9.9 の EPSG 辞書では名前が「JGD2024 / Japan Plane Rectangular CS VIII」（基準 6668・パラメータは JGD2011 と同じ）
+- sha256：bb7fefd0b685cc16a7eb587566c39f287872b185212ede1d1810f3afc68dd714
 
 Range で読むので gzip せずに生のまま置く。
