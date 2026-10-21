@@ -1,0 +1,38 @@
+{
+ "source": "Niantic Labs — spz sample scenes",
+ "url": "https://github.com/nianticlabs/spz",
+ "license": "MIT",
+ "note": "Copyright (c) 2024 Niantic Labs. Cleaned (clipped, re-centred), scaled up and re-encoded for the demo.",
+ "scene": "racoonfamily",
+ "title": "Raccoon family",
+ "file": "racoonfamily.spz",
+ "origin": [
+  139.7656,
+  35.6815,
+  3.3
+ ],
+ "heading": 20,
+ "scale": 10,
+ "splats": 792563,
+ "splatsSource": 932560,
+ "shDegree": 3,
+ "bbox": {
+  "min": [
+   -24.98046875,
+   -0.999707043170929,
+   -24.9658203125
+  ],
+  "max": [
+   24.931640625,
+   24.44706916809082,
+   24.91455078125
+  ]
+ },
+ "tiles": 52,
+ "depth": 3,
+ "bytesTiles": 32207888,
+ "bytesSpz": 20238189,
+ "leaf": 100000,
+ "inner": 60000,
+ "baked": "2026-10-21"
+}

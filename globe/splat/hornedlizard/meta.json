@@ -1,0 +1,38 @@
+{
+ "source": "Niantic Labs — spz sample scenes",
+ "url": "https://github.com/nianticlabs/spz",
+ "license": "MIT",
+ "note": "Copyright (c) 2024 Niantic Labs. Cleaned (clipped, re-centred), scaled up and re-encoded for the demo.",
+ "scene": "hornedlizard",
+ "title": "Horned lizard",
+ "file": "hornedlizard.spz",
+ "origin": [
+  139.7656,
+  35.6807,
+  3.3
+ ],
+ "heading": -30,
+ "scale": 10,
+ "splats": 627845,
+ "splatsSource": 786233,
+ "shDegree": 3,
+ "bbox": {
+  "min": [
+   -29.98046875,
+   -0.9987304210662842,
+   -29.912109375
+  ],
+  "max": [
+   29.9658203125,
+   24.972949981689453,
+   29.990234375
+  ]
+ },
+ "tiles": 43,
+ "depth": 3,
+ "bytesTiles": 23131852,
+ "bytesSpz": 14776785,
+ "leaf": 100000,
+ "inner": 60000,
+ "baked": "2026-10-21"
+}
